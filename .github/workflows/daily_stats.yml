@@ -24,7 +24,7 @@ jobs:
         pip install -r requirements.txt
 
     - name: Collect stats
-      run: python scripts/get_neuralmagic_models.py
+      run: python scripts/get_author_model_stats.py
 
     - name: Update README
       run: python scripts/update_readme.py
