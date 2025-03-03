@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime
 import os
+import argparse
 
 
 def get_author_model_stats(author: str):
@@ -37,15 +38,28 @@ def get_author_model_stats(author: str):
 
 
 if __name__ == "__main__":
-    new_data = get_author_model_stats("neuralmagic")
+    # Set up argument parser
+    parser = argparse.ArgumentParser(description="Get model stats for a Hugging Face author")
+    parser.add_argument("--author", type=str, default="neuralmagic", 
+                       help="Author name on Hugging Face (default: neuralmagic)")
+    args = parser.parse_args()
+    
+    author = args.author
+    output_file = f"model_stats_{author}.csv"
+    
+    print(f"Fetching model stats for author: {author}")
+    new_data = get_author_model_stats(author)
 
-    if os.path.exists("model_stats.csv"):
-        existing_data = pd.read_csv("model_stats.csv")
+    if os.path.exists(output_file):
+        print(f"Updating existing file: {output_file}")
+        existing_data = pd.read_csv(output_file)
         updated_data = pd.concat([existing_data, new_data]).drop_duplicates(
             subset=["date", "model_id"], keep="last"
         )
     else:
+        print(f"Creating new file: {output_file}")
         updated_data = new_data
 
-    updated_data.to_csv("model_stats.csv", index=False)
-    print(updated_data.to_markdown())
+    updated_data.to_csv(output_file, index=False)
+    print(f"\nNew Stats for {author}:")
+    print(new_data.to_markdown())
