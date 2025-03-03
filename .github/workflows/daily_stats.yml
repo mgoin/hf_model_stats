@@ -28,6 +28,9 @@ jobs:
     - name: Collect stats for neuralmagic
       run: python scripts/get_author_model_stats.py --author neuralmagic
 
+    - name: Collect stats for nm-testing
+      run: python scripts/get_author_model_stats.py --author nm-testing
+
     - name: Collect stats for ibm-granite
       run: python scripts/get_author_model_stats.py --author ibm-granite
 
