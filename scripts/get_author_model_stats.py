@@ -3,22 +3,42 @@ import pandas as pd
 from datetime import datetime
 import os
 import argparse
+import time
 
-def safe_json(response):
-    try:
-        return response.json()
-    except Exception as e:
-        print(f"Error parsing JSON from request URL: {response.url}")
-        print("Status code:", response.status_code)
-        print("Response text:", response.text)
-        raise e
+# Create a persistent session for all requests
+session = requests.Session()
+
+def get_json_with_retries(url, retries=3, backoff_factor=10):
+    """
+    Attempt to GET a URL and return its JSON content.
+    If a 429 (rate limit) response is encountered, wait with exponential backoff.
+    """
+    for attempt in range(retries):
+        response = session.get(url)
+        if response.status_code == 429:
+            wait_time = backoff_factor * (attempt + 1)
+            print(f"Rate limit encountered at {url}. Sleeping for {wait_time} seconds (attempt {attempt+1}/{retries}).")
+            time.sleep(wait_time)
+            continue
+        elif not response.ok:
+            print(f"Request to {url} failed with status code {response.status_code}. Response text:")
+            print(response.text)
+            response.raise_for_status()
+
+        try:
+            return response.json()
+        except Exception as e:
+            print(f"Error parsing JSON from {url}: {e}")
+            print("Response text:")
+            print(response.text)
+            # Optionally, back off before retrying JSON parsing failures.
+            time.sleep(backoff_factor * (attempt + 1))
+    raise Exception(f"Failed to retrieve valid JSON from {url} after {retries} attempts")
 
 def get_author_model_stats(author: str):
-    url = f"https://huggingface.co/api/models?author={author}"
-    print(f"Fetching models list from: {url}")
-    response = requests.get(url)
-    print("Status code for models list:", response.status_code)
-    data = safe_json(response)
+    models_url = f"https://huggingface.co/api/models?author={author}"
+    print(f"Fetching models list from: {models_url}")
+    data = get_json_with_retries(models_url)
 
     models = []
     for model in data:
@@ -29,9 +49,7 @@ def get_author_model_stats(author: str):
         details_url = f"https://huggingface.co/api/models/{model_id}?expand[]=downloadsAllTime"
         print(f"\nFetching details for model: {model_id}")
         print("Details URL:", details_url)
-        details_response = requests.get(details_url)
-        print("Status code for model details:", details_response.status_code)
-        details_data = safe_json(details_response)
+        details_data = get_json_with_retries(details_url)
         downloads_all_time = details_data.get("downloadsAllTime", 0)
 
         models.append(
