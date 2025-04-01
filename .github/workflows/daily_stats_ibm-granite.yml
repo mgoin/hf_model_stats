@@ -2,7 +2,7 @@ name: Daily Stats Collection for ibm-granite
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Run daily at midnight UTC
+    - cron: '20 0 * * *'  # Run daily at midnight UTC
   workflow_dispatch:
 
 jobs:
