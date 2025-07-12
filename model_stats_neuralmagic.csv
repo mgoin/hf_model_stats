@@ -54074,3 +54074,4 @@ date,model_id,likes,downloads,downloads_all_time
 2025-04-08,neuralmagic/Mixtral-8x7B-Instruct-v0.1-FP8,0,374,2648
 2025-07-10,neuralmagic/Llama-3.2-3B-Instruct-quantized.w8a8,0,0,0
 2025-07-11,neuralmagic/Llama-3.2-3B-Instruct-quantized.w8a8,0,17,17
+2025-07-12,neuralmagic/Llama-3.2-3B-Instruct-quantized.w8a8,0,23,23
