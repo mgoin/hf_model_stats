@@ -36,21 +36,16 @@ def get_json_with_retries(url, retries=3, backoff_factor=10):
     raise Exception(f"Failed to retrieve valid JSON from {url} after {retries} attempts")
 
 def get_author_model_stats(author: str):
-    models_url = f"https://huggingface.co/api/models?author={author}"
+    models_url = f"https://huggingface.co/api/models?author={author}&expand[]=likes&expand[]=downloads&expand[]=downloadsAllTime"
     print(f"Fetching models list from: {models_url}")
     data = get_json_with_retries(models_url)
 
     models = []
     for model in data:
         model_id = model["id"]
-        likes = model["likes"]
-        downloads = model["downloads"]
-
-        details_url = f"https://huggingface.co/api/models/{model_id}?expand[]=downloadsAllTime"
-        print(f"\nFetching details for model: {model_id}")
-        print("Details URL:", details_url)
-        details_data = get_json_with_retries(details_url)
-        downloads_all_time = details_data.get("downloadsAllTime", 0)
+        likes = model.get("likes", 0)
+        downloads = model.get("downloads", 0)
+        downloads_all_time = model.get("downloadsAllTime", 0)
 
         models.append(
             {
