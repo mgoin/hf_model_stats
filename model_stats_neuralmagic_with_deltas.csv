@@ -10432,6 +10432,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-05-29,neuralmagic/Llama-3.2-3B-Instruct-quantized.w8a8,0,997,4863,0,3
 2026-05-30,neuralmagic/Llama-3.2-3B-Instruct-quantized.w8a8,0,981,4865,0,2
 2026-05-31,neuralmagic/Llama-3.2-3B-Instruct-quantized.w8a8,0,979,4870,0,5
+2026-06-01,neuralmagic/Llama-3.2-3B-Instruct-quantized.w8a8,0,980,4875,0,5
 2024-09-27,neuralmagic/Llama-3.2-3B-quantized.w8a8,0,0,0,0,0
 2024-09-28,neuralmagic/Llama-3.2-3B-quantized.w8a8,0,6,6,0,6
 2024-09-29,neuralmagic/Llama-3.2-3B-quantized.w8a8,0,6,6,0,0
