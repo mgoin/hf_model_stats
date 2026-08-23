@@ -525,6 +525,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed1,1,107,777,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed1,1,111,783,0,6
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed1,1,110,784,0,1
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed1,1,109,786,0,2
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed2,0,37,37,0,37
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed2,0,56,56,0,19
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed2,0,56,56,0,0
@@ -1051,6 +1052,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed2,1,115,729,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed2,1,119,735,0,6
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed2,1,119,737,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed2,1,118,739,0,2
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed3,0,31,31,0,31
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed3,0,52,52,0,21
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed3,0,52,52,0,0
@@ -1577,6 +1579,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed3,1,106,684,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed3,1,110,690,0,6
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed3,1,110,692,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.Edu.seed3,1,109,694,0,2
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed1,0,132,132,0,132
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed1,0,218,218,0,86
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed1,0,218,218,0,0
@@ -2103,6 +2106,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed1,1,121,996,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed1,1,126,1003,0,7
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed1,1,126,1005,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed1,1,125,1007,0,2
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed2,0,27,27,0,27
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed2,0,53,53,0,26
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed2,0,53,53,0,0
@@ -2629,6 +2633,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed2,1,109,677,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed2,1,112,683,0,6
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed2,1,112,685,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed2,1,111,687,0,2
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed3,0,21,21,0,21
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed3,0,81,81,0,60
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed3,0,81,81,0,0
@@ -3155,6 +3160,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed3,1,106,727,0,1
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed3,1,111,734,0,7
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed3,1,111,736,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_FineWeb.seed3,1,110,738,0,2
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed1,0,62,62,0,62
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed1,0,90,90,0,28
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed1,0,90,90,0,0
@@ -3681,6 +3687,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed1,1,99,743,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed1,1,101,747,0,4
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed1,1,101,749,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed1,1,101,752,0,3
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed2,0,23,23,0,23
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed2,0,80,80,0,57
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed2,0,80,80,0,0
@@ -4207,6 +4214,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed2,1,105,801,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed2,1,109,807,0,6
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed2,1,109,809,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed2,1,108,811,0,2
 2025-03-03,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed3,0,21,21,0,21
 2025-03-09,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed3,0,80,80,0,59
 2025-03-10,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed3,0,80,80,0,0
@@ -4733,6 +4741,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed3,1,114,729,0,2
 2026-08-21,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed3,1,118,735,0,6
 2026-08-22,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed3,1,113,737,0,2
+2026-08-23,ibm-granite/GneissWeb.7B_ablation_model_on_350B_GneissWeb.seed3,1,112,739,0,2
 2025-03-03,ibm-granite/GneissWeb.Edu_classifier,1,0,0,1,0
 2025-03-09,ibm-granite/GneissWeb.Edu_classifier,1,0,0,0,0
 2025-03-10,ibm-granite/GneissWeb.Edu_classifier,1,0,0,0,0
@@ -5259,6 +5268,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.Edu_classifier,2,0,0,0,0
 2026-08-21,ibm-granite/GneissWeb.Edu_classifier,2,0,0,0,0
 2026-08-22,ibm-granite/GneissWeb.Edu_classifier,2,0,0,0,0
+2026-08-23,ibm-granite/GneissWeb.Edu_classifier,2,0,0,0,0
 2025-03-03,ibm-granite/GneissWeb.Med_classifier,1,0,0,1,0
 2025-03-09,ibm-granite/GneissWeb.Med_classifier,1,0,0,0,0
 2025-03-10,ibm-granite/GneissWeb.Med_classifier,1,0,0,0,0
@@ -5785,6 +5795,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.Med_classifier,2,0,0,0,0
 2026-08-21,ibm-granite/GneissWeb.Med_classifier,2,0,0,0,0
 2026-08-22,ibm-granite/GneissWeb.Med_classifier,2,0,0,0,0
+2026-08-23,ibm-granite/GneissWeb.Med_classifier,2,0,0,0,0
 2025-03-03,ibm-granite/GneissWeb.Quality_annotator,2,0,0,2,0
 2025-03-09,ibm-granite/GneissWeb.Quality_annotator,2,0,0,0,0
 2025-03-10,ibm-granite/GneissWeb.Quality_annotator,2,0,0,0,0
@@ -6311,6 +6322,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.Quality_annotator,5,0,0,0,0
 2026-08-21,ibm-granite/GneissWeb.Quality_annotator,5,0,0,0,0
 2026-08-22,ibm-granite/GneissWeb.Quality_annotator,5,0,0,0,0
+2026-08-23,ibm-granite/GneissWeb.Quality_annotator,5,0,0,0,0
 2025-03-03,ibm-granite/GneissWeb.Sci_classifier,1,0,0,1,0
 2025-03-09,ibm-granite/GneissWeb.Sci_classifier,1,0,0,0,0
 2025-03-10,ibm-granite/GneissWeb.Sci_classifier,1,0,0,0,0
@@ -6837,6 +6849,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.Sci_classifier,2,0,0,0,0
 2026-08-21,ibm-granite/GneissWeb.Sci_classifier,2,0,0,0,0
 2026-08-22,ibm-granite/GneissWeb.Sci_classifier,2,0,0,0,0
+2026-08-23,ibm-granite/GneissWeb.Sci_classifier,2,0,0,0,0
 2025-03-03,ibm-granite/GneissWeb.Tech_classifier,1,0,0,1,0
 2025-03-09,ibm-granite/GneissWeb.Tech_classifier,1,0,0,0,0
 2025-03-10,ibm-granite/GneissWeb.Tech_classifier,1,0,0,0,0
@@ -7363,6 +7376,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.Tech_classifier,3,0,0,0,0
 2026-08-21,ibm-granite/GneissWeb.Tech_classifier,3,0,0,0,0
 2026-08-22,ibm-granite/GneissWeb.Tech_classifier,3,0,0,0,0
+2026-08-23,ibm-granite/GneissWeb.Tech_classifier,3,0,0,0,0
 2025-03-03,ibm-granite/GneissWeb.bloom,0,0,0,0,0
 2025-03-09,ibm-granite/GneissWeb.bloom,0,0,0,0,0
 2025-03-10,ibm-granite/GneissWeb.bloom,0,0,0,0,0
@@ -7889,6 +7903,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/GneissWeb.bloom,1,0,0,0,0
 2026-08-21,ibm-granite/GneissWeb.bloom,1,0,0,0,0
 2026-08-22,ibm-granite/GneissWeb.bloom,1,0,0,0,0
+2026-08-23,ibm-granite/GneissWeb.bloom,1,0,0,0,0
 2025-03-03,ibm-granite/granite-20b-code-base-8k,13,501,21286,13,21286
 2025-03-09,ibm-granite/granite-20b-code-base-8k,13,191,21346,0,60
 2025-03-10,ibm-granite/granite-20b-code-base-8k,13,191,21346,0,0
@@ -8415,6 +8430,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-code-base-8k,14,1476,43861,0,56
 2026-08-21,ibm-granite/granite-20b-code-base-8k,14,1467,43915,0,54
 2026-08-22,ibm-granite/granite-20b-code-base-8k,14,1447,43965,0,50
+2026-08-23,ibm-granite/granite-20b-code-base-8k,14,1426,43986,0,21
 2025-03-03,ibm-granite/granite-20b-code-base-8k-GGUF,4,183,687,4,687
 2025-03-09,ibm-granite/granite-20b-code-base-8k-GGUF,4,201,743,0,56
 2025-03-10,ibm-granite/granite-20b-code-base-8k-GGUF,4,201,743,0,0
@@ -8941,6 +8957,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-code-base-8k-GGUF,5,292,1746,0,4
 2026-08-21,ibm-granite/granite-20b-code-base-8k-GGUF,5,297,1751,0,5
 2026-08-22,ibm-granite/granite-20b-code-base-8k-GGUF,5,291,1753,0,2
+2026-08-23,ibm-granite/granite-20b-code-base-8k-GGUF,5,286,1758,0,5
 2025-03-03,ibm-granite/granite-20b-code-base-r1.1,2,60,3347,2,3347
 2025-03-09,ibm-granite/granite-20b-code-base-r1.1,2,51,3349,0,2
 2025-03-10,ibm-granite/granite-20b-code-base-r1.1,2,51,3349,0,0
@@ -9467,6 +9484,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-code-base-r1.1,2,114,4034,0,3
 2026-08-21,ibm-granite/granite-20b-code-base-r1.1,2,118,4040,0,6
 2026-08-22,ibm-granite/granite-20b-code-base-r1.1,2,115,4042,0,2
+2026-08-23,ibm-granite/granite-20b-code-base-r1.1,2,114,4044,0,2
 2025-03-03,ibm-granite/granite-20b-code-instruct-8k,40,2386,64986,40,64986
 2025-03-09,ibm-granite/granite-20b-code-instruct-8k,40,2174,65549,0,563
 2025-03-10,ibm-granite/granite-20b-code-instruct-8k,40,2174,65549,0,0
@@ -9993,6 +10011,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-code-instruct-8k,44,5933,104245,0,151
 2026-08-21,ibm-granite/granite-20b-code-instruct-8k,44,5715,104354,0,109
 2026-08-22,ibm-granite/granite-20b-code-instruct-8k,44,4929,104456,0,102
+2026-08-23,ibm-granite/granite-20b-code-instruct-8k,44,3656,104534,0,78
 2025-03-03,ibm-granite/granite-20b-code-instruct-8k-GGUF,5,216,4599,5,4599
 2025-03-09,ibm-granite/granite-20b-code-instruct-8k-GGUF,5,262,4657,0,58
 2025-03-10,ibm-granite/granite-20b-code-instruct-8k-GGUF,5,262,4657,0,0
@@ -10519,6 +10538,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-code-instruct-8k-GGUF,6,359,6333,0,2
 2026-08-21,ibm-granite/granite-20b-code-instruct-8k-GGUF,6,361,6339,0,6
 2026-08-22,ibm-granite/granite-20b-code-instruct-8k-GGUF,6,369,6350,0,11
+2026-08-23,ibm-granite/granite-20b-code-instruct-8k-GGUF,6,370,6356,0,6
 2025-03-03,ibm-granite/granite-20b-code-instruct-accelerator,3,39,330,3,330
 2025-03-09,ibm-granite/granite-20b-code-instruct-accelerator,3,33,334,0,4
 2025-03-10,ibm-granite/granite-20b-code-instruct-accelerator,3,33,334,0,0
@@ -11045,6 +11065,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-code-instruct-accelerator,3,95,767,0,2
 2026-08-21,ibm-granite/granite-20b-code-instruct-accelerator,3,94,769,0,2
 2026-08-22,ibm-granite/granite-20b-code-instruct-accelerator,3,94,772,0,3
+2026-08-23,ibm-granite/granite-20b-code-instruct-accelerator,3,93,774,0,2
 2025-03-03,ibm-granite/granite-20b-code-instruct-r1.1,1,22,811,1,811
 2025-03-09,ibm-granite/granite-20b-code-instruct-r1.1,1,11,811,0,0
 2025-03-10,ibm-granite/granite-20b-code-instruct-r1.1,1,11,811,0,0
@@ -11571,6 +11592,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-code-instruct-r1.1,1,2566,8119,0,50
 2026-08-21,ibm-granite/granite-20b-code-instruct-r1.1,1,2577,8132,0,13
 2026-08-22,ibm-granite/granite-20b-code-instruct-r1.1,1,2577,8136,0,4
+2026-08-23,ibm-granite/granite-20b-code-instruct-r1.1,1,2582,8144,0,8
 2025-03-03,ibm-granite/granite-20b-functioncalling,30,6001,9725,30,9725
 2025-03-09,ibm-granite/granite-20b-functioncalling,31,6076,9862,1,137
 2025-03-10,ibm-granite/granite-20b-functioncalling,31,6076,9862,0,0
@@ -12097,6 +12119,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-20b-functioncalling,36,224,19212,0,5
 2026-08-21,ibm-granite/granite-20b-functioncalling,36,218,19216,0,4
 2026-08-22,ibm-granite/granite-20b-functioncalling,36,206,19220,0,4
+2026-08-23,ibm-granite/granite-20b-functioncalling,36,206,19226,0,6
 2025-03-03,ibm-granite/granite-3.0-1b-a400m-base,6,4324,16627,6,16627
 2025-03-09,ibm-granite/granite-3.0-1b-a400m-base,6,4370,17436,0,809
 2025-03-10,ibm-granite/granite-3.0-1b-a400m-base,6,4370,17436,0,0
@@ -12623,6 +12646,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-1b-a400m-base,7,70817,412593,0,1153
 2026-08-21,ibm-granite/granite-3.0-1b-a400m-base,7,67711,413755,0,1162
 2026-08-22,ibm-granite/granite-3.0-1b-a400m-base,7,66358,414809,0,1054
+2026-08-23,ibm-granite/granite-3.0-1b-a400m-base,7,64607,416141,0,1332
 2025-03-03,ibm-granite/granite-3.0-1b-a400m-instruct,19,465,7652,19,7652
 2025-03-09,ibm-granite/granite-3.0-1b-a400m-instruct,19,415,7733,0,81
 2025-03-10,ibm-granite/granite-3.0-1b-a400m-instruct,19,415,7733,0,0
@@ -13149,6 +13173,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-1b-a400m-instruct,21,36241,62907,0,2396
 2026-08-21,ibm-granite/granite-3.0-1b-a400m-instruct,21,38497,65214,0,2307
 2026-08-22,ibm-granite/granite-3.0-1b-a400m-instruct,21,40721,67538,0,2324
+2026-08-23,ibm-granite/granite-3.0-1b-a400m-instruct,21,42890,69857,0,2319
 2025-03-03,ibm-granite/granite-3.0-2b-base,21,7398,33880,21,33880
 2025-03-09,ibm-granite/granite-3.0-2b-base,21,7506,34991,0,1111
 2025-03-10,ibm-granite/granite-3.0-2b-base,21,7506,34991,0,0
@@ -13675,6 +13700,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-2b-base,25,2464,87748,0,82
 2026-08-21,ibm-granite/granite-3.0-2b-base,25,2517,87873,0,125
 2026-08-22,ibm-granite/granite-3.0-2b-base,25,2488,87965,0,92
+2026-08-23,ibm-granite/granite-3.0-2b-base,25,2376,87977,0,12
 2025-03-03,ibm-granite/granite-3.0-2b-instruct,47,22638,93440,47,93440
 2025-03-09,ibm-granite/granite-3.0-2b-instruct,47,22977,97786,0,4346
 2025-03-10,ibm-granite/granite-3.0-2b-instruct,47,22977,97786,0,0
@@ -14201,6 +14227,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-2b-instruct,48,10488,227500,0,198
 2026-08-21,ibm-granite/granite-3.0-2b-instruct,48,9595,227589,0,89
 2026-08-22,ibm-granite/granite-3.0-2b-instruct,48,9084,227797,0,208
+2026-08-23,ibm-granite/granite-3.0-2b-instruct,48,8752,228180,0,383
 2025-03-03,ibm-granite/granite-3.0-3b-a800m-base,5,3942,14352,5,14352
 2025-03-09,ibm-granite/granite-3.0-3b-a800m-base,5,3236,14997,0,645
 2025-03-10,ibm-granite/granite-3.0-3b-a800m-base,5,3236,14997,0,0
@@ -14727,6 +14754,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-3b-a800m-base,5,781,48084,0,12
 2026-08-21,ibm-granite/granite-3.0-3b-a800m-base,5,778,48097,0,13
 2026-08-22,ibm-granite/granite-3.0-3b-a800m-base,5,782,48117,0,20
+2026-08-23,ibm-granite/granite-3.0-3b-a800m-base,5,781,48127,0,10
 2025-03-03,ibm-granite/granite-3.0-3b-a800m-instruct,17,4502,21995,17,21995
 2025-03-09,ibm-granite/granite-3.0-3b-a800m-instruct,17,4453,22803,0,808
 2025-03-10,ibm-granite/granite-3.0-3b-a800m-instruct,17,4453,22803,0,0
@@ -15253,6 +15281,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-3b-a800m-instruct,20,1499,76459,0,23
 2026-08-21,ibm-granite/granite-3.0-3b-a800m-instruct,20,1523,76510,0,51
 2026-08-22,ibm-granite/granite-3.0-3b-a800m-instruct,20,1448,76550,0,40
+2026-08-23,ibm-granite/granite-3.0-3b-a800m-instruct,20,1673,76830,0,280
 2025-03-03,ibm-granite/granite-3.0-8b-base,23,4704,33129,23,33129
 2025-03-09,ibm-granite/granite-3.0-8b-base,23,4862,34043,0,914
 2025-03-10,ibm-granite/granite-3.0-8b-base,23,4862,34043,0,0
@@ -15779,6 +15808,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-8b-base,26,10141,86337,0,273
 2026-08-21,ibm-granite/granite-3.0-8b-base,26,10164,86628,0,291
 2026-08-22,ibm-granite/granite-3.0-8b-base,26,10169,86955,0,327
+2026-08-23,ibm-granite/granite-3.0-8b-base,26,10160,87236,0,281
 2025-03-03,ibm-granite/granite-3.0-8b-instruct,199,29753,175169,199,175169
 2025-03-09,ibm-granite/granite-3.0-8b-instruct,199,29219,181160,0,5991
 2025-03-10,ibm-granite/granite-3.0-8b-instruct,199,29219,181160,0,0
@@ -16305,6 +16335,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-8b-instruct,208,144280,964882,0,5692
 2026-08-21,ibm-granite/granite-3.0-8b-instruct,208,146855,971870,0,6988
 2026-08-22,ibm-granite/granite-3.0-8b-instruct,208,149399,978958,0,7088
+2026-08-23,ibm-granite/granite-3.0-8b-instruct,208,151774,985911,0,6953
 2025-03-03,ibm-granite/granite-3.0-8b-instruct-accelerator,1,23,279,1,279
 2025-03-09,ibm-granite/granite-3.0-8b-instruct-accelerator,1,100,360,0,81
 2025-03-10,ibm-granite/granite-3.0-8b-instruct-accelerator,1,100,360,0,0
@@ -16831,6 +16862,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-8b-instruct-accelerator,2,85,766,0,2
 2026-08-21,ibm-granite/granite-3.0-8b-instruct-accelerator,2,86,769,0,3
 2026-08-22,ibm-granite/granite-3.0-8b-instruct-accelerator,2,86,771,0,2
+2026-08-23,ibm-granite/granite-3.0-8b-instruct-accelerator,2,87,774,0,3
 2025-03-03,ibm-granite/granite-3.0-8b-lora-intrinsics-v0.1,1,35,65,1,65
 2025-03-09,ibm-granite/granite-3.0-8b-lora-intrinsics-v0.1,2,45,84,1,19
 2025-03-10,ibm-granite/granite-3.0-8b-lora-intrinsics-v0.1,2,45,84,0,0
@@ -17357,6 +17389,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.0-8b-lora-intrinsics-v0.1,3,91,679,0,2
 2026-08-21,ibm-granite/granite-3.0-8b-lora-intrinsics-v0.1,3,94,684,0,5
 2026-08-22,ibm-granite/granite-3.0-8b-lora-intrinsics-v0.1,3,95,687,0,3
+2026-08-23,ibm-granite/granite-3.0-8b-lora-intrinsics-v0.1,3,94,689,0,2
 2025-03-03,ibm-granite/granite-3.1-1b-a400m-base,6,4248,8932,6,8932
 2025-03-09,ibm-granite/granite-3.1-1b-a400m-base,6,4533,9964,0,1032
 2025-03-10,ibm-granite/granite-3.1-1b-a400m-base,6,4533,9964,0,0
@@ -17883,6 +17916,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-1b-a400m-base,12,2874,60130,0,188
 2026-08-21,ibm-granite/granite-3.1-1b-a400m-base,12,2951,60279,0,149
 2026-08-22,ibm-granite/granite-3.1-1b-a400m-base,12,3133,60539,0,260
+2026-08-23,ibm-granite/granite-3.1-1b-a400m-base,12,3074,60623,0,84
 2025-03-03,ibm-granite/granite-3.1-1b-a400m-instruct,13,6066,14534,13,14534
 2025-03-09,ibm-granite/granite-3.1-1b-a400m-instruct,13,5511,15368,0,834
 2025-03-10,ibm-granite/granite-3.1-1b-a400m-instruct,13,5511,15368,0,0
@@ -18409,6 +18443,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-1b-a400m-instruct,22,6356,90523,0,119
 2026-08-21,ibm-granite/granite-3.1-1b-a400m-instruct,22,6204,90682,0,159
 2026-08-22,ibm-granite/granite-3.1-1b-a400m-instruct,22,5990,90792,0,110
+2026-08-23,ibm-granite/granite-3.1-1b-a400m-instruct,22,5831,91004,0,212
 2025-03-03,ibm-granite/granite-3.1-2b-base,12,10566,19011,12,19011
 2025-03-09,ibm-granite/granite-3.1-2b-base,12,12012,21519,0,2508
 2025-03-10,ibm-granite/granite-3.1-2b-base,12,12012,21519,0,0
@@ -18935,6 +18970,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-2b-base,14,1222,107340,0,14
 2026-08-21,ibm-granite/granite-3.1-2b-base,14,802,107358,0,18
 2026-08-22,ibm-granite/granite-3.1-2b-base,14,755,107375,0,17
+2026-08-23,ibm-granite/granite-3.1-2b-base,14,774,107414,0,39
 2025-03-03,ibm-granite/granite-3.1-2b-instruct,41,42192,64776,41,64776
 2025-03-09,ibm-granite/granite-3.1-2b-instruct,43,42303,71288,2,6512
 2025-03-10,ibm-granite/granite-3.1-2b-instruct,43,42303,71288,0,0
@@ -19461,6 +19497,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-2b-instruct,57,24679,328204,0,3429
 2026-08-21,ibm-granite/granite-3.1-2b-instruct,57,28018,331978,0,3774
 2026-08-22,ibm-granite/granite-3.1-2b-instruct,57,29681,334076,0,2098
+2026-08-23,ibm-granite/granite-3.1-2b-instruct,57,30349,335513,0,1437
 2025-03-03,ibm-granite/granite-3.1-3b-a800m-base,5,3821,10419,5,10419
 2025-03-09,ibm-granite/granite-3.1-3b-a800m-base,5,3598,11009,0,590
 2025-03-10,ibm-granite/granite-3.1-3b-a800m-base,5,3598,11009,0,0
@@ -19987,6 +20024,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-3b-a800m-base,11,2259,57740,0,45
 2026-08-21,ibm-granite/granite-3.1-3b-a800m-base,11,2248,57798,0,58
 2026-08-22,ibm-granite/granite-3.1-3b-a800m-base,11,2213,57827,0,29
+2026-08-23,ibm-granite/granite-3.1-3b-a800m-base,11,2155,57843,0,16
 2025-03-03,ibm-granite/granite-3.1-3b-a800m-instruct,21,5743,28909,21,28909
 2025-03-09,ibm-granite/granite-3.1-3b-a800m-instruct,21,5370,29609,0,700
 2025-03-10,ibm-granite/granite-3.1-3b-a800m-instruct,21,5370,29609,0,0
@@ -20513,6 +20551,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-3b-a800m-instruct,32,5658,309556,0,123
 2026-08-21,ibm-granite/granite-3.1-3b-a800m-instruct,32,5645,309694,0,138
 2026-08-22,ibm-granite/granite-3.1-3b-a800m-instruct,32,5831,310003,0,309
+2026-08-23,ibm-granite/granite-3.1-3b-a800m-instruct,32,5840,310142,0,139
 2025-03-03,ibm-granite/granite-3.1-8b-base,20,8071,19767,20,19767
 2025-03-09,ibm-granite/granite-3.1-8b-base,20,8015,21756,0,1989
 2025-03-10,ibm-granite/granite-3.1-8b-base,20,8015,21756,0,0
@@ -21039,6 +21078,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-8b-base,25,2311,124798,0,39
 2026-08-21,ibm-granite/granite-3.1-8b-base,25,2302,124821,0,23
 2026-08-22,ibm-granite/granite-3.1-8b-base,25,2225,124862,0,41
+2026-08-23,ibm-granite/granite-3.1-8b-base,25,2285,124987,0,125
 2025-03-03,ibm-granite/granite-3.1-8b-instruct,152,96545,187479,152,187479
 2025-03-09,ibm-granite/granite-3.1-8b-instruct,153,91369,203122,1,15643
 2025-03-10,ibm-granite/granite-3.1-8b-instruct,153,91369,203122,0,0
@@ -21565,6 +21605,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-8b-instruct,168,93271,1676237,0,1076
 2026-08-21,ibm-granite/granite-3.1-8b-instruct,168,88294,1677171,0,934
 2026-08-22,ibm-granite/granite-3.1-8b-instruct,168,83466,1678291,0,1120
+2026-08-23,ibm-granite/granite-3.1-8b-instruct,168,78745,1679310,0,1019
 2025-03-03,ibm-granite/granite-3.1-8b-lora-intrinsics-v0.1,0,39,39,0,39
 2025-03-09,ibm-granite/granite-3.1-8b-lora-intrinsics-v0.1,0,42,42,0,3
 2025-03-10,ibm-granite/granite-3.1-8b-lora-intrinsics-v0.1,0,42,42,0,0
@@ -22091,6 +22132,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.1-8b-lora-intrinsics-v0.1,0,89,582,0,3
 2026-08-21,ibm-granite/granite-3.1-8b-lora-intrinsics-v0.1,0,90,585,0,3
 2026-08-22,ibm-granite/granite-3.1-8b-lora-intrinsics-v0.1,0,91,588,0,3
+2026-08-23,ibm-granite/granite-3.1-8b-lora-intrinsics-v0.1,0,90,590,0,2
 2025-03-03,ibm-granite/granite-3.2-2b-instruct,20,3331,3331,20,3331
 2025-03-09,ibm-granite/granite-3.2-2b-instruct,31,8199,8199,11,4868
 2025-03-10,ibm-granite/granite-3.2-2b-instruct,30,8199,8199,-1,0
@@ -22617,6 +22659,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-2b-instruct,53,9795,214443,0,161
 2026-08-21,ibm-granite/granite-3.2-2b-instruct,53,9766,214776,0,333
 2026-08-22,ibm-granite/granite-3.2-2b-instruct,53,9656,214953,0,177
+2026-08-23,ibm-granite/granite-3.2-2b-instruct,53,9350,215123,0,170
 2025-04-17,ibm-granite/granite-3.2-8b-alora-jailbreak,0,0,0,0,0
 2025-04-18,ibm-granite/granite-3.2-8b-alora-jailbreak,0,0,0,0,0
 2025-04-19,ibm-granite/granite-3.2-8b-alora-jailbreak,0,0,0,0,0
@@ -23107,6 +23150,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-alora-jailbreak,0,0,0,0,0
 2026-08-21,ibm-granite/granite-3.2-8b-alora-jailbreak,0,0,0,0,0
 2026-08-22,ibm-granite/granite-3.2-8b-alora-jailbreak,0,0,0,0,0
+2026-08-23,ibm-granite/granite-3.2-8b-alora-jailbreak,0,0,0,0,0
 2025-04-17,ibm-granite/granite-3.2-8b-alora-rag-answerability-prediction,0,0,0,0,0
 2025-04-18,ibm-granite/granite-3.2-8b-alora-rag-answerability-prediction,0,0,0,0,0
 2025-04-19,ibm-granite/granite-3.2-8b-alora-rag-answerability-prediction,0,0,0,0,0
@@ -23932,6 +23976,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-alora-rag-query-rewrite,4,0,0,0,0
 2026-08-21,ibm-granite/granite-3.2-8b-alora-rag-query-rewrite,4,0,0,0,0
 2026-08-22,ibm-granite/granite-3.2-8b-alora-rag-query-rewrite,4,0,0,0,0
+2026-08-23,ibm-granite/granite-3.2-8b-alora-rag-query-rewrite,4,0,0,0,0
 2025-06-04,ibm-granite/granite-3.2-8b-alora-requirement-check,0,0,0,0,0
 2025-06-05,ibm-granite/granite-3.2-8b-alora-requirement-check,0,0,0,0,0
 2025-06-06,ibm-granite/granite-3.2-8b-alora-requirement-check,0,0,0,0,0
@@ -24374,6 +24419,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-alora-requirement-check,1,0,0,0,0
 2026-08-21,ibm-granite/granite-3.2-8b-alora-requirement-check,1,0,0,0,0
 2026-08-22,ibm-granite/granite-3.2-8b-alora-requirement-check,1,0,0,0,0
+2026-08-23,ibm-granite/granite-3.2-8b-alora-requirement-check,1,0,0,0,0
 2025-04-17,ibm-granite/granite-3.2-8b-alora-uncertainty,0,0,0,0,0
 2025-04-18,ibm-granite/granite-3.2-8b-alora-uncertainty,0,0,0,0,0
 2025-04-19,ibm-granite/granite-3.2-8b-alora-uncertainty,0,0,0,0,0
@@ -25235,6 +25281,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-instruct,92,3181,287572,0,69
 2026-08-21,ibm-granite/granite-3.2-8b-instruct,92,3112,287609,0,37
 2026-08-22,ibm-granite/granite-3.2-8b-instruct,92,2983,287631,0,22
+2026-08-23,ibm-granite/granite-3.2-8b-instruct,92,2934,287684,0,53
 2025-03-03,ibm-granite/granite-3.2-8b-instruct-preview,63,8001,8001,63,8001
 2025-03-09,ibm-granite/granite-3.2-8b-instruct-preview,68,9482,9482,5,1481
 2025-03-10,ibm-granite/granite-3.2-8b-instruct-preview,68,9482,9482,0,0
@@ -25761,6 +25808,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-instruct-preview,70,175,17368,0,2
 2026-08-21,ibm-granite/granite-3.2-8b-instruct-preview,70,177,17377,0,9
 2026-08-22,ibm-granite/granite-3.2-8b-instruct-preview,70,173,17381,0,4
+2026-08-23,ibm-granite/granite-3.2-8b-instruct-preview,70,170,17384,0,3
 2025-04-17,ibm-granite/granite-3.2-8b-lora-jailbreak,0,0,0,0,0
 2025-04-18,ibm-granite/granite-3.2-8b-lora-jailbreak,0,0,0,0,0
 2025-04-19,ibm-granite/granite-3.2-8b-lora-jailbreak,0,0,0,0,0
@@ -26251,6 +26299,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-lora-jailbreak,1,0,0,0,0
 2026-08-21,ibm-granite/granite-3.2-8b-lora-jailbreak,1,0,0,0,0
 2026-08-22,ibm-granite/granite-3.2-8b-lora-jailbreak,1,0,0,0,0
+2026-08-23,ibm-granite/granite-3.2-8b-lora-jailbreak,1,0,0,0,0
 2025-04-12,ibm-granite/granite-3.2-8b-lora-rag-answerability-prediction,0,0,0,0,0
 2025-04-13,ibm-granite/granite-3.2-8b-lora-rag-answerability-prediction,0,10,10,0,10
 2025-04-14,ibm-granite/granite-3.2-8b-lora-rag-answerability-prediction,0,16,16,0,6
@@ -27086,6 +27135,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-lora-rag-citation-generation,5,9,600,0,0
 2026-08-21,ibm-granite/granite-3.2-8b-lora-rag-citation-generation,5,9,600,0,0
 2026-08-22,ibm-granite/granite-3.2-8b-lora-rag-citation-generation,5,9,600,0,0
+2026-08-23,ibm-granite/granite-3.2-8b-lora-rag-citation-generation,5,9,600,0,0
 2025-04-12,ibm-granite/granite-3.2-8b-lora-rag-hallucination-detection,1,0,0,1,0
 2025-04-13,ibm-granite/granite-3.2-8b-lora-rag-hallucination-detection,1,10,10,0,10
 2025-04-14,ibm-granite/granite-3.2-8b-lora-rag-hallucination-detection,1,12,12,0,2
@@ -28261,6 +28311,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.2-8b-lora-uncertainty,2,0,0,0,0
 2026-08-21,ibm-granite/granite-3.2-8b-lora-uncertainty,2,0,0,0,0
 2026-08-22,ibm-granite/granite-3.2-8b-lora-uncertainty,2,0,0,0,0
+2026-08-23,ibm-granite/granite-3.2-8b-lora-uncertainty,2,0,0,0,0
 2025-04-17,ibm-granite/granite-3.3-2b-base,3,83,83,3,83
 2025-04-18,ibm-granite/granite-3.3-2b-base,4,109,109,1,26
 2025-04-19,ibm-granite/granite-3.3-2b-base,4,213,213,0,104
@@ -28751,6 +28802,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-2b-base,23,2549,107828,0,72
 2026-08-21,ibm-granite/granite-3.3-2b-base,23,2449,107849,0,21
 2026-08-22,ibm-granite/granite-3.3-2b-base,23,2358,107904,0,55
+2026-08-23,ibm-granite/granite-3.3-2b-base,23,2383,107964,0,60
 2025-05-03,ibm-granite/granite-3.3-2b-base-GGUF,0,0,0,0,0
 2025-05-04,ibm-granite/granite-3.3-2b-base-GGUF,0,0,0,0,0
 2025-05-05,ibm-granite/granite-3.3-2b-base-GGUF,0,1,1,0,1
@@ -29225,6 +29277,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-2b-base-GGUF,2,708,4760,0,25
 2026-08-21,ibm-granite/granite-3.3-2b-base-GGUF,2,716,4780,0,20
 2026-08-22,ibm-granite/granite-3.3-2b-base-GGUF,2,726,4800,0,20
+2026-08-23,ibm-granite/granite-3.3-2b-base-GGUF,2,714,4813,0,13
 2025-04-17,ibm-granite/granite-3.3-2b-instruct,8,111,111,8,111
 2025-04-18,ibm-granite/granite-3.3-2b-instruct,13,433,433,5,322
 2025-04-19,ibm-granite/granite-3.3-2b-instruct,16,21099,21099,3,20666
@@ -29715,6 +29768,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-2b-instruct,85,46516,1553996,0,2164
 2026-08-21,ibm-granite/granite-3.3-2b-instruct,85,46255,1555954,0,1958
 2026-08-22,ibm-granite/granite-3.3-2b-instruct,85,45700,1558066,0,2112
+2026-08-23,ibm-granite/granite-3.3-2b-instruct,85,40636,1559391,0,1325
 2025-04-17,ibm-granite/granite-3.3-2b-instruct-GGUF,1,57,57,1,57
 2025-04-18,ibm-granite/granite-3.3-2b-instruct-GGUF,1,374,374,0,317
 2025-04-19,ibm-granite/granite-3.3-2b-instruct-GGUF,1,909,909,0,535
@@ -30205,6 +30259,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-2b-instruct-GGUF,15,1913,23954,0,32
 2026-08-21,ibm-granite/granite-3.3-2b-instruct-GGUF,15,1927,24010,0,56
 2026-08-22,ibm-granite/granite-3.3-2b-instruct-GGUF,15,1933,24093,0,83
+2026-08-23,ibm-granite/granite-3.3-2b-instruct-GGUF,15,1974,24182,0,89
 2025-06-22,ibm-granite/granite-3.3-8b-alora-requirement-check,0,0,0,0,0
 2025-06-23,ibm-granite/granite-3.3-8b-alora-requirement-check,0,0,0,0,0
 2025-06-24,ibm-granite/granite-3.3-8b-alora-requirement-check,0,0,0,0,0
@@ -30629,6 +30684,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-alora-requirement-check,2,0,0,0,0
 2026-08-21,ibm-granite/granite-3.3-8b-alora-requirement-check,2,0,0,0,0
 2026-08-22,ibm-granite/granite-3.3-8b-alora-requirement-check,2,0,0,0,0
+2026-08-23,ibm-granite/granite-3.3-8b-alora-requirement-check,2,0,0,0,0
 2025-08-09,ibm-granite/granite-3.3-8b-alora-uncertainty,0,0,0,0,0
 2025-08-10,ibm-granite/granite-3.3-8b-alora-uncertainty,0,0,0,0,0
 2025-08-11,ibm-granite/granite-3.3-8b-alora-uncertainty,0,0,0,0,0
@@ -31005,6 +31061,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-alora-uncertainty,1,0,0,0,0
 2026-08-21,ibm-granite/granite-3.3-8b-alora-uncertainty,1,0,0,0,0
 2026-08-22,ibm-granite/granite-3.3-8b-alora-uncertainty,1,0,0,0,0
+2026-08-23,ibm-granite/granite-3.3-8b-alora-uncertainty,1,0,0,0,0
 2025-04-17,ibm-granite/granite-3.3-8b-base,5,62,62,5,62
 2025-04-18,ibm-granite/granite-3.3-8b-base,7,136,136,2,74
 2025-04-19,ibm-granite/granite-3.3-8b-base,7,182,182,0,46
@@ -31495,6 +31552,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-base,27,2571,1608339,0,36
 2026-08-21,ibm-granite/granite-3.3-8b-base,27,2432,1608376,0,37
 2026-08-22,ibm-granite/granite-3.3-8b-base,27,2339,1608465,0,89
+2026-08-23,ibm-granite/granite-3.3-8b-base,27,1916,1608516,0,51
 2025-05-03,ibm-granite/granite-3.3-8b-base-GGUF,0,0,0,0,0
 2025-05-04,ibm-granite/granite-3.3-8b-base-GGUF,0,0,0,0,0
 2025-05-05,ibm-granite/granite-3.3-8b-base-GGUF,0,0,0,0,0
@@ -31969,6 +32027,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-base-GGUF,1,571,4796,0,18
 2026-08-21,ibm-granite/granite-3.3-8b-base-GGUF,1,581,4809,0,13
 2026-08-22,ibm-granite/granite-3.3-8b-base-GGUF,1,587,4818,0,9
+2026-08-23,ibm-granite/granite-3.3-8b-base-GGUF,1,575,4837,0,19
 2025-04-17,ibm-granite/granite-3.3-8b-instruct,16,356,356,16,356
 2025-04-18,ibm-granite/granite-3.3-8b-instruct,32,895,895,16,539
 2025-04-19,ibm-granite/granite-3.3-8b-instruct,42,2433,2433,10,1538
@@ -32459,6 +32518,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-instruct,160,53753,1844625,0,1500
 2026-08-21,ibm-granite/granite-3.3-8b-instruct,160,55863,1848151,0,3526
 2026-08-22,ibm-granite/granite-3.3-8b-instruct,160,54877,1850259,0,2108
+2026-08-23,ibm-granite/granite-3.3-8b-instruct,160,51735,1852236,0,1977
 2025-10-18,ibm-granite/granite-3.3-8b-instruct-FP8,1,0,0,1,0
 2025-10-19,ibm-granite/granite-3.3-8b-instruct-FP8,1,10,10,0,10
 2025-10-20,ibm-granite/granite-3.3-8b-instruct-FP8,1,14,14,0,4
@@ -32766,6 +32826,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-instruct-FP8,3,2958,56678,0,93
 2026-08-21,ibm-granite/granite-3.3-8b-instruct-FP8,3,2942,56700,0,22
 2026-08-22,ibm-granite/granite-3.3-8b-instruct-FP8,3,2821,56743,0,43
+2026-08-23,ibm-granite/granite-3.3-8b-instruct-FP8,3,2517,56784,0,41
 2025-04-17,ibm-granite/granite-3.3-8b-instruct-GGUF,3,57,57,3,57
 2025-04-18,ibm-granite/granite-3.3-8b-instruct-GGUF,9,820,820,6,763
 2025-04-19,ibm-granite/granite-3.3-8b-instruct-GGUF,10,1984,1984,1,1164
@@ -33256,6 +33317,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-instruct-GGUF,39,5438,154058,0,78
 2026-08-21,ibm-granite/granite-3.3-8b-instruct-GGUF,39,5470,154132,0,74
 2026-08-22,ibm-granite/granite-3.3-8b-instruct-GGUF,39,5476,154321,0,189
+2026-08-23,ibm-granite/granite-3.3-8b-instruct-GGUF,39,5515,154467,0,146
 2025-06-17,ibm-granite/granite-3.3-8b-lora-math-prm,0,0,0,0,0
 2025-06-18,ibm-granite/granite-3.3-8b-lora-math-prm,1,0,0,1,0
 2025-06-19,ibm-granite/granite-3.3-8b-lora-math-prm,1,0,0,0,0
@@ -33685,6 +33747,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-lora-math-prm,10,0,0,0,0
 2026-08-21,ibm-granite/granite-3.3-8b-lora-math-prm,10,0,0,0,0
 2026-08-22,ibm-granite/granite-3.3-8b-lora-math-prm,10,0,0,0,0
+2026-08-23,ibm-granite/granite-3.3-8b-lora-math-prm,10,0,0,0,0
 2025-06-16,ibm-granite/granite-3.3-8b-lora-uncertainty,0,0,0,0,0
 2025-06-17,ibm-granite/granite-3.3-8b-lora-uncertainty,0,0,0,0,0
 2025-06-18,ibm-granite/granite-3.3-8b-lora-uncertainty,0,0,0,0,0
@@ -34226,6 +34289,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-math-prm-v2,14,403,1079,0,39
 2026-08-21,ibm-granite/granite-3.3-8b-math-prm-v2,14,447,1125,0,46
 2026-08-22,ibm-granite/granite-3.3-8b-math-prm-v2,14,454,1137,0,12
+2026-08-23,ibm-granite/granite-3.3-8b-math-prm-v2,14,466,1153,0,16
 2025-06-14,ibm-granite/granite-3.3-8b-rag-agent-lib,1,0,0,1,0
 2025-06-15,ibm-granite/granite-3.3-8b-rag-agent-lib,2,0,0,1,0
 2025-06-16,ibm-granite/granite-3.3-8b-rag-agent-lib,3,0,0,1,0
@@ -34658,6 +34722,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-rag-agent-lib,13,0,0,0,0
 2026-08-21,ibm-granite/granite-3.3-8b-rag-agent-lib,13,0,0,0,0
 2026-08-22,ibm-granite/granite-3.3-8b-rag-agent-lib,13,0,0,0,0
+2026-08-23,ibm-granite/granite-3.3-8b-rag-agent-lib,13,0,0,0,0
 2025-10-25,ibm-granite/granite-3.3-8b-security-lib,2,0,0,2,0
 2025-10-26,ibm-granite/granite-3.3-8b-security-lib,2,0,0,0,0
 2025-10-27,ibm-granite/granite-3.3-8b-security-lib,2,0,0,0,0
@@ -34958,6 +35023,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3.3-8b-security-lib,6,0,0,0,0
 2026-08-21,ibm-granite/granite-3.3-8b-security-lib,6,0,0,0,0
 2026-08-22,ibm-granite/granite-3.3-8b-security-lib,6,0,0,0,0
+2026-08-23,ibm-granite/granite-3.3-8b-security-lib,6,0,0,0,0
 2025-03-03,ibm-granite/granite-34b-code-base-8k,19,400,12324,19,12324
 2025-03-09,ibm-granite/granite-34b-code-base-8k,19,181,12387,0,63
 2025-03-10,ibm-granite/granite-34b-code-base-8k,19,181,12387,0,0
@@ -35484,6 +35550,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-34b-code-base-8k,21,243,14814,0,8
 2026-08-21,ibm-granite/granite-34b-code-base-8k,21,248,14824,0,10
 2026-08-22,ibm-granite/granite-34b-code-base-8k,21,436,15020,0,196
+2026-08-23,ibm-granite/granite-34b-code-base-8k,21,439,15028,0,8
 2025-03-03,ibm-granite/granite-34b-code-base-8k-GGUF,3,138,600,3,600
 2025-03-09,ibm-granite/granite-34b-code-base-8k-GGUF,3,187,652,0,52
 2025-03-10,ibm-granite/granite-34b-code-base-8k-GGUF,3,187,652,0,0
@@ -36010,6 +36077,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-34b-code-base-8k-GGUF,3,397,1548,0,0
 2026-08-21,ibm-granite/granite-34b-code-base-8k-GGUF,3,401,1552,0,4
 2026-08-22,ibm-granite/granite-34b-code-base-8k-GGUF,3,400,1554,0,2
+2026-08-23,ibm-granite/granite-34b-code-base-8k-GGUF,3,403,1562,0,8
 2025-03-03,ibm-granite/granite-34b-code-instruct-8k,74,2171,17614,74,17614
 2025-03-09,ibm-granite/granite-34b-code-instruct-8k,74,1877,17779,0,165
 2025-03-10,ibm-granite/granite-34b-code-instruct-8k,74,1877,17779,0,0
@@ -36536,6 +36604,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-34b-code-instruct-8k,79,624,133247,0,14
 2026-08-21,ibm-granite/granite-34b-code-instruct-8k,79,622,133263,0,16
 2026-08-22,ibm-granite/granite-34b-code-instruct-8k,79,624,133285,0,22
+2026-08-23,ibm-granite/granite-34b-code-instruct-8k,79,619,133297,0,12
 2025-03-03,ibm-granite/granite-34b-code-instruct-8k-GGUF,3,206,1536,3,1536
 2025-03-09,ibm-granite/granite-34b-code-instruct-8k-GGUF,3,242,1587,0,51
 2025-03-10,ibm-granite/granite-34b-code-instruct-8k-GGUF,3,242,1587,0,0
@@ -37062,6 +37131,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-34b-code-instruct-8k-GGUF,8,640,3427,0,4
 2026-08-21,ibm-granite/granite-34b-code-instruct-8k-GGUF,8,646,3433,0,6
 2026-08-22,ibm-granite/granite-34b-code-instruct-8k-GGUF,8,409,3436,0,3
+2026-08-23,ibm-granite/granite-34b-code-instruct-8k-GGUF,8,406,3442,0,6
 2025-03-03,ibm-granite/granite-34b-code-instruct-accelerator,0,56,101,0,101
 2025-03-09,ibm-granite/granite-34b-code-instruct-accelerator,0,55,104,0,3
 2025-03-10,ibm-granite/granite-34b-code-instruct-accelerator,0,55,104,0,0
@@ -37588,6 +37658,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-34b-code-instruct-accelerator,0,83,446,0,2
 2026-08-21,ibm-granite/granite-34b-code-instruct-accelerator,0,84,449,0,3
 2026-08-22,ibm-granite/granite-34b-code-instruct-accelerator,0,84,451,0,2
+2026-08-23,ibm-granite/granite-34b-code-instruct-accelerator,0,84,453,0,2
 2025-03-03,ibm-granite/granite-3b-code-base-128k,6,621,5366,6,5366
 2025-03-09,ibm-granite/granite-3b-code-base-128k,6,672,5437,0,71
 2025-03-10,ibm-granite/granite-3b-code-base-128k,6,672,5437,0,0
@@ -38114,6 +38185,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3b-code-base-128k,7,738,9437,0,4
 2026-08-21,ibm-granite/granite-3b-code-base-128k,7,590,9445,0,8
 2026-08-22,ibm-granite/granite-3b-code-base-128k,7,336,9449,0,4
+2026-08-23,ibm-granite/granite-3b-code-base-128k,7,314,9460,0,11
 2025-03-03,ibm-granite/granite-3b-code-base-2k,37,6635,162292,37,162292
 2025-03-09,ibm-granite/granite-3b-code-base-2k,38,5803,162999,1,707
 2025-03-10,ibm-granite/granite-3b-code-base-2k,38,5803,162999,0,0
@@ -38640,6 +38712,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3b-code-base-2k,38,39588,596839,0,1310
 2026-08-21,ibm-granite/granite-3b-code-base-2k,38,39587,598206,0,1367
 2026-08-22,ibm-granite/granite-3b-code-base-2k,38,39637,599659,0,1453
+2026-08-23,ibm-granite/granite-3b-code-base-2k,38,39841,601222,0,1563
 2025-03-03,ibm-granite/granite-3b-code-base-2k-GGUF,2,65,779,2,779
 2025-03-09,ibm-granite/granite-3b-code-base-2k-GGUF,2,56,783,0,4
 2025-03-10,ibm-granite/granite-3b-code-base-2k-GGUF,2,56,783,0,0
@@ -39166,6 +39239,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3b-code-base-2k-GGUF,3,99,1825,0,2
 2026-08-21,ibm-granite/granite-3b-code-base-2k-GGUF,3,102,1830,0,5
 2026-08-22,ibm-granite/granite-3b-code-base-2k-GGUF,3,97,1832,0,2
+2026-08-23,ibm-granite/granite-3b-code-base-2k-GGUF,3,98,1837,0,5
 2025-03-03,ibm-granite/granite-3b-code-instruct-128k,8,4441,9784,8,9784
 2025-03-09,ibm-granite/granite-3b-code-instruct-128k,8,3834,9855,0,71
 2025-03-10,ibm-granite/granite-3b-code-instruct-128k,8,3834,9855,0,0
@@ -39692,6 +39766,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3b-code-instruct-128k,13,742,80241,0,15
 2026-08-21,ibm-granite/granite-3b-code-instruct-128k,13,750,80264,0,23
 2026-08-22,ibm-granite/granite-3b-code-instruct-128k,13,744,80291,0,27
+2026-08-23,ibm-granite/granite-3b-code-instruct-128k,13,875,80434,0,143
 2025-03-03,ibm-granite/granite-3b-code-instruct-2k,35,3534,118134,35,118134
 2025-03-09,ibm-granite/granite-3b-code-instruct-2k,35,2695,118442,0,308
 2025-03-10,ibm-granite/granite-3b-code-instruct-2k,35,2695,118442,0,0
@@ -40218,6 +40293,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3b-code-instruct-2k,40,8873,181110,0,36
 2026-08-21,ibm-granite/granite-3b-code-instruct-2k,40,8493,181131,0,21
 2026-08-22,ibm-granite/granite-3b-code-instruct-2k,40,8214,181157,0,26
+2026-08-23,ibm-granite/granite-3b-code-instruct-2k,40,7939,181173,0,16
 2025-03-03,ibm-granite/granite-3b-code-instruct-2k-GGUF,5,56,3650,5,3650
 2025-03-09,ibm-granite/granite-3b-code-instruct-2k-GGUF,5,56,3660,0,10
 2025-03-10,ibm-granite/granite-3b-code-instruct-2k-GGUF,5,56,3660,0,0
@@ -40744,6 +40820,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3b-code-instruct-2k-GGUF,7,373,5996,0,15
 2026-08-21,ibm-granite/granite-3b-code-instruct-2k-GGUF,7,377,6003,0,7
 2026-08-22,ibm-granite/granite-3b-code-instruct-2k-GGUF,7,356,6011,0,8
+2026-08-23,ibm-granite/granite-3b-code-instruct-2k-GGUF,7,363,6022,0,11
 2025-03-03,ibm-granite/granite-3b-code-instruct-accelerator,0,60,46604,0,46604
 2025-03-09,ibm-granite/granite-3b-code-instruct-accelerator,0,40,46633,0,29
 2025-03-10,ibm-granite/granite-3b-code-instruct-accelerator,0,40,46633,0,0
@@ -41270,6 +41347,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-3b-code-instruct-accelerator,1,106,47657,0,2
 2026-08-21,ibm-granite/granite-3b-code-instruct-accelerator,1,106,47660,0,3
 2026-08-22,ibm-granite/granite-3b-code-instruct-accelerator,1,105,47662,0,2
+2026-08-23,ibm-granite/granite-3b-code-instruct-accelerator,1,104,47663,0,1
 2025-10-29,ibm-granite/granite-4.0-1b,24,63,63,24,63
 2025-10-30,ibm-granite/granite-4.0-1b,31,194,194,7,131
 2025-10-31,ibm-granite/granite-4.0-1b,35,445,445,4,251
@@ -41566,6 +41644,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-1b,53,7393,83229,-1,310
 2026-08-21,ibm-granite/granite-4.0-1b,53,7524,83547,0,318
 2026-08-22,ibm-granite/granite-4.0-1b,53,7599,83776,0,229
+2026-08-23,ibm-granite/granite-4.0-1b,53,7805,84130,0,354
 2025-11-11,ibm-granite/granite-4.0-1b-GGUF,0,157,157,0,157
 2025-11-12,ibm-granite/granite-4.0-1b-GGUF,0,231,231,0,74
 2025-11-13,ibm-granite/granite-4.0-1b-GGUF,0,343,343,0,112
@@ -41849,6 +41928,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-1b-GGUF,5,2631,17538,0,26
 2026-08-21,ibm-granite/granite-4.0-1b-GGUF,5,2635,17583,0,45
 2026-08-22,ibm-granite/granite-4.0-1b-GGUF,5,2566,17619,0,36
+2026-08-23,ibm-granite/granite-4.0-1b-GGUF,5,2494,17653,0,34
 2025-10-29,ibm-granite/granite-4.0-1b-base,21,31,31,21,31
 2025-10-30,ibm-granite/granite-4.0-1b-base,25,125,125,4,94
 2025-10-31,ibm-granite/granite-4.0-1b-base,26,217,217,1,92
@@ -42145,6 +42225,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-1b-base,32,12053,29948,0,672
 2026-08-21,ibm-granite/granite-4.0-1b-base,32,12544,30684,0,736
 2026-08-22,ibm-granite/granite-4.0-1b-base,32,13096,31495,0,811
+2026-08-23,ibm-granite/granite-4.0-1b-base,32,13158,31821,0,326
 2025-11-11,ibm-granite/granite-4.0-1b-base-GGUF,0,138,138,0,138
 2025-11-12,ibm-granite/granite-4.0-1b-base-GGUF,0,170,170,0,32
 2025-11-13,ibm-granite/granite-4.0-1b-base-GGUF,0,225,225,0,55
@@ -42428,6 +42509,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-1b-base-GGUF,3,333,4018,0,1
 2026-08-21,ibm-granite/granite-4.0-1b-base-GGUF,3,325,4019,0,1
 2026-08-22,ibm-granite/granite-4.0-1b-base-GGUF,3,306,4023,0,4
+2026-08-23,ibm-granite/granite-4.0-1b-base-GGUF,3,285,4023,0,0
 2026-03-07,ibm-granite/granite-4.0-1b-speech,9,59,59,9,59
 2026-03-08,ibm-granite/granite-4.0-1b-speech,25,165,165,16,106
 2026-03-09,ibm-granite/granite-4.0-1b-speech,35,617,617,10,452
@@ -42596,6 +42678,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-1b-speech,251,78577,557301,0,848
 2026-08-21,ibm-granite/granite-4.0-1b-speech,251,74644,558502,0,1201
 2026-08-22,ibm-granite/granite-4.0-1b-speech,251,70043,559232,0,730
+2026-08-23,ibm-granite/granite-4.0-1b-speech,251,65776,559883,0,651
 2026-05-13,ibm-granite/granite-4.0-1b-speech-GGUF,0,0,0,0,0
 2026-05-14,ibm-granite/granite-4.0-1b-speech-GGUF,0,74,74,0,74
 2026-05-15,ibm-granite/granite-4.0-1b-speech-GGUF,0,165,165,0,91
@@ -42697,6 +42780,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-1b-speech-GGUF,2,115,852,0,9
 2026-08-21,ibm-granite/granite-4.0-1b-speech-GGUF,2,115,852,0,0
 2026-08-22,ibm-granite/granite-4.0-1b-speech-GGUF,2,117,854,0,2
+2026-08-23,ibm-granite/granite-4.0-1b-speech-GGUF,2,119,875,0,21
 2025-10-29,ibm-granite/granite-4.0-350m,25,98,98,25,98
 2025-10-30,ibm-granite/granite-4.0-350m,29,196,196,4,98
 2025-10-31,ibm-granite/granite-4.0-350m,34,615,615,5,419
@@ -42993,6 +43077,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-350m,67,11128,189462,1,369
 2026-08-21,ibm-granite/granite-4.0-350m,68,11167,189771,1,309
 2026-08-22,ibm-granite/granite-4.0-350m,68,11483,190247,0,476
+2026-08-23,ibm-granite/granite-4.0-350m,68,11995,191144,0,897
 2025-11-11,ibm-granite/granite-4.0-350m-GGUF,0,170,170,0,170
 2025-11-12,ibm-granite/granite-4.0-350m-GGUF,0,228,228,0,58
 2025-11-13,ibm-granite/granite-4.0-350m-GGUF,0,280,280,0,52
@@ -43276,6 +43361,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-350m-GGUF,9,1330,12258,0,97
 2026-08-21,ibm-granite/granite-4.0-350m-GGUF,9,1359,12327,0,69
 2026-08-22,ibm-granite/granite-4.0-350m-GGUF,9,1362,12382,0,55
+2026-08-23,ibm-granite/granite-4.0-350m-GGUF,9,1332,12430,0,48
 2025-10-29,ibm-granite/granite-4.0-350m-base,18,19,19,18,19
 2025-10-30,ibm-granite/granite-4.0-350m-base,21,116,116,3,97
 2025-10-31,ibm-granite/granite-4.0-350m-base,23,178,178,2,62
@@ -43572,6 +43658,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-350m-base,26,17716,104824,0,41
 2026-08-21,ibm-granite/granite-4.0-350m-base,26,17242,104913,0,89
 2026-08-22,ibm-granite/granite-4.0-350m-base,26,16097,105196,0,283
+2026-08-23,ibm-granite/granite-4.0-350m-base,26,13923,105388,0,192
 2025-11-11,ibm-granite/granite-4.0-350m-base-GGUF,0,134,134,0,134
 2025-11-12,ibm-granite/granite-4.0-350m-base-GGUF,0,167,167,0,33
 2025-11-13,ibm-granite/granite-4.0-350m-base-GGUF,0,216,216,0,49
@@ -43855,6 +43942,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-350m-base-GGUF,1,410,3686,0,70
 2026-08-21,ibm-granite/granite-4.0-350m-base-GGUF,1,473,3750,0,64
 2026-08-22,ibm-granite/granite-4.0-350m-base-GGUF,1,543,3825,0,75
+2026-08-23,ibm-granite/granite-4.0-350m-base-GGUF,1,556,3858,0,33
 2026-03-29,ibm-granite/granite-4.0-3b-vision,9,892,892,9,892
 2026-03-30,ibm-granite/granite-4.0-3b-vision,23,935,935,14,43
 2026-03-31,ibm-granite/granite-4.0-3b-vision,30,1000,1000,7,65
@@ -44001,6 +44089,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-3b-vision,112,1049,306028,0,16
 2026-08-21,ibm-granite/granite-4.0-3b-vision,112,1069,306053,0,25
 2026-08-22,ibm-granite/granite-4.0-3b-vision,112,845,306071,0,18
+2026-08-23,ibm-granite/granite-4.0-3b-vision,112,963,306197,0,126
 2025-10-29,ibm-granite/granite-4.0-h-1b,34,36,36,34,36
 2025-10-30,ibm-granite/granite-4.0-h-1b,49,390,390,15,354
 2025-10-31,ibm-granite/granite-4.0-h-1b,70,902,902,21,512
@@ -44297,6 +44386,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-1b,147,2460,91286,0,55
 2026-08-21,ibm-granite/granite-4.0-h-1b,147,2407,91300,0,14
 2026-08-22,ibm-granite/granite-4.0-h-1b,147,2400,91360,0,60
+2026-08-23,ibm-granite/granite-4.0-h-1b,147,2389,91406,0,46
 2025-11-11,ibm-granite/granite-4.0-h-1b-GGUF,0,176,176,0,176
 2025-11-12,ibm-granite/granite-4.0-h-1b-GGUF,0,228,228,0,52
 2025-11-13,ibm-granite/granite-4.0-h-1b-GGUF,0,375,375,0,147
@@ -44580,6 +44670,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-1b-GGUF,6,3248,14949,0,14
 2026-08-21,ibm-granite/granite-4.0-h-1b-GGUF,6,3233,15015,0,66
 2026-08-22,ibm-granite/granite-4.0-h-1b-GGUF,6,3304,15150,0,135
+2026-08-23,ibm-granite/granite-4.0-h-1b-GGUF,6,3349,15253,0,103
 2025-10-29,ibm-granite/granite-4.0-h-1b-base,23,33,33,23,33
 2025-10-30,ibm-granite/granite-4.0-h-1b-base,25,65,65,2,32
 2025-10-31,ibm-granite/granite-4.0-h-1b-base,27,126,126,2,61
@@ -44876,6 +44967,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-1b-base,34,626,7813,0,7
 2026-08-21,ibm-granite/granite-4.0-h-1b-base,34,624,7829,0,16
 2026-08-22,ibm-granite/granite-4.0-h-1b-base,34,600,7841,0,12
+2026-08-23,ibm-granite/granite-4.0-h-1b-base,34,578,7849,0,8
 2025-11-11,ibm-granite/granite-4.0-h-1b-base-GGUF,0,139,139,0,139
 2025-11-12,ibm-granite/granite-4.0-h-1b-base-GGUF,0,180,180,0,41
 2025-11-13,ibm-granite/granite-4.0-h-1b-base-GGUF,0,233,233,0,53
@@ -45159,6 +45251,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-1b-base-GGUF,2,596,5032,0,14
 2026-08-21,ibm-granite/granite-4.0-h-1b-base-GGUF,2,607,5046,0,14
 2026-08-22,ibm-granite/granite-4.0-h-1b-base-GGUF,2,605,5051,0,5
+2026-08-23,ibm-granite/granite-4.0-h-1b-base-GGUF,2,605,5078,0,27
 2025-10-29,ibm-granite/granite-4.0-h-350m,28,802,802,28,802
 2025-10-30,ibm-granite/granite-4.0-h-350m,35,1103,1103,7,301
 2025-10-31,ibm-granite/granite-4.0-h-350m,46,1676,1676,11,573
@@ -45455,6 +45548,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-350m,110,3394,90394,0,122
 2026-08-21,ibm-granite/granite-4.0-h-350m,110,3409,90458,0,64
 2026-08-22,ibm-granite/granite-4.0-h-350m,110,3500,90618,0,160
+2026-08-23,ibm-granite/granite-4.0-h-350m,110,3630,90802,0,184
 2025-11-11,ibm-granite/granite-4.0-h-350m-GGUF,0,154,154,0,154
 2025-11-12,ibm-granite/granite-4.0-h-350m-GGUF,0,195,195,0,41
 2025-11-13,ibm-granite/granite-4.0-h-350m-GGUF,0,266,266,0,71
@@ -45738,6 +45832,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-350m-GGUF,5,3011,12575,0,31
 2026-08-21,ibm-granite/granite-4.0-h-350m-GGUF,5,3095,12682,0,107
 2026-08-22,ibm-granite/granite-4.0-h-350m-GGUF,5,3797,13409,0,727
+2026-08-23,ibm-granite/granite-4.0-h-350m-GGUF,5,3888,13543,0,134
 2025-10-29,ibm-granite/granite-4.0-h-350m-base,19,20,20,19,20
 2025-10-30,ibm-granite/granite-4.0-h-350m-base,22,59,59,3,39
 2025-10-31,ibm-granite/granite-4.0-h-350m-base,23,100,100,1,41
@@ -46034,6 +46129,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-350m-base,34,542,16792,0,27
 2026-08-21,ibm-granite/granite-4.0-h-350m-base,34,748,17019,0,227
 2026-08-22,ibm-granite/granite-4.0-h-350m-base,34,728,17041,0,22
+2026-08-23,ibm-granite/granite-4.0-h-350m-base,34,748,17081,0,40
 2025-11-11,ibm-granite/granite-4.0-h-350m-base-GGUF,0,137,137,0,137
 2025-11-12,ibm-granite/granite-4.0-h-350m-base-GGUF,0,171,171,0,34
 2025-11-13,ibm-granite/granite-4.0-h-350m-base-GGUF,0,234,234,0,63
@@ -46317,6 +46413,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-350m-base-GGUF,4,478,4533,0,4
 2026-08-21,ibm-granite/granite-4.0-h-350m-base-GGUF,4,497,4553,0,20
 2026-08-22,ibm-granite/granite-4.0-h-350m-base-GGUF,4,528,4585,0,32
+2026-08-23,ibm-granite/granite-4.0-h-350m-base-GGUF,4,527,4604,0,19
 2025-10-03,ibm-granite/granite-4.0-h-micro,16,866,866,16,866
 2025-10-04,ibm-granite/granite-4.0-h-micro,26,1470,1470,10,604
 2025-10-05,ibm-granite/granite-4.0-h-micro,29,6155,6155,3,4685
@@ -46638,6 +46735,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-micro,148,37620,231983,0,212
 2026-08-21,ibm-granite/granite-4.0-h-micro,148,37727,232133,0,150
 2026-08-22,ibm-granite/granite-4.0-h-micro,148,37755,232449,0,316
+2026-08-23,ibm-granite/granite-4.0-h-micro,148,37918,232746,0,297
 2025-10-03,ibm-granite/granite-4.0-h-micro-GGUF,1,134,134,1,134
 2025-10-04,ibm-granite/granite-4.0-h-micro-GGUF,3,636,636,2,502
 2025-10-05,ibm-granite/granite-4.0-h-micro-GGUF,3,972,972,0,336
@@ -46959,6 +47057,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-micro-GGUF,20,5958,29192,0,36
 2026-08-21,ibm-granite/granite-4.0-h-micro-GGUF,20,6039,29313,0,121
 2026-08-22,ibm-granite/granite-4.0-h-micro-GGUF,20,6076,29453,0,140
+2026-08-23,ibm-granite/granite-4.0-h-micro-GGUF,20,6108,29567,0,114
 2025-10-03,ibm-granite/granite-4.0-h-micro-base,8,114,114,8,114
 2025-10-04,ibm-granite/granite-4.0-h-micro-base,11,169,169,3,55
 2025-10-05,ibm-granite/granite-4.0-h-micro-base,12,314,314,1,145
@@ -47280,6 +47379,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-micro-base,35,2671,77967,0,42
 2026-08-21,ibm-granite/granite-4.0-h-micro-base,35,2659,77970,0,3
 2026-08-22,ibm-granite/granite-4.0-h-micro-base,35,2756,78102,0,132
+2026-08-23,ibm-granite/granite-4.0-h-micro-base,35,2755,78108,0,6
 2025-10-03,ibm-granite/granite-4.0-h-micro-base-GGUF,0,125,125,0,125
 2025-10-04,ibm-granite/granite-4.0-h-micro-base-GGUF,0,304,304,0,179
 2025-10-05,ibm-granite/granite-4.0-h-micro-base-GGUF,0,430,430,0,126
@@ -47601,6 +47701,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-micro-base-GGUF,1,882,5782,0,5
 2026-08-21,ibm-granite/granite-4.0-h-micro-base-GGUF,1,906,5809,0,27
 2026-08-22,ibm-granite/granite-4.0-h-micro-base-GGUF,1,686,5815,0,6
+2026-08-23,ibm-granite/granite-4.0-h-micro-base-GGUF,1,669,5835,0,20
 2025-10-03,ibm-granite/granite-4.0-h-small,46,520,520,46,520
 2025-10-04,ibm-granite/granite-4.0-h-small,94,919,919,48,399
 2025-10-05,ibm-granite/granite-4.0-h-small,103,2025,2025,9,1106
@@ -47922,6 +48023,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-small,309,30446,1802799,0,801
 2026-08-21,ibm-granite/granite-4.0-h-small,309,28306,1804802,0,2003
 2026-08-22,ibm-granite/granite-4.0-h-small,309,28560,1806403,0,1601
+2026-08-23,ibm-granite/granite-4.0-h-small,309,28114,1807515,0,1112
 2025-10-03,ibm-granite/granite-4.0-h-small-FP8,1,0,0,1,0
 2025-10-04,ibm-granite/granite-4.0-h-small-FP8,0,242,242,-1,242
 2025-10-05,ibm-granite/granite-4.0-h-small-FP8,0,353,353,0,111
@@ -48243,6 +48345,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-small-FP8,5,395,101789,0,4
 2026-08-21,ibm-granite/granite-4.0-h-small-FP8,5,378,101794,0,5
 2026-08-22,ibm-granite/granite-4.0-h-small-FP8,5,348,101805,0,11
+2026-08-23,ibm-granite/granite-4.0-h-small-FP8,5,340,101810,0,5
 2025-10-03,ibm-granite/granite-4.0-h-small-GGUF,1,73,73,1,73
 2025-10-04,ibm-granite/granite-4.0-h-small-GGUF,5,898,898,4,825
 2025-10-05,ibm-granite/granite-4.0-h-small-GGUF,7,2773,2773,2,1875
@@ -48564,6 +48667,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-small-GGUF,24,2014,34355,0,27
 2026-08-21,ibm-granite/granite-4.0-h-small-GGUF,24,2063,34427,0,72
 2026-08-22,ibm-granite/granite-4.0-h-small-GGUF,24,2051,34464,0,37
+2026-08-23,ibm-granite/granite-4.0-h-small-GGUF,24,2015,34498,0,34
 2025-10-03,ibm-granite/granite-4.0-h-small-base,11,87,87,11,87
 2025-10-04,ibm-granite/granite-4.0-h-small-base,18,113,113,7,26
 2025-10-05,ibm-granite/granite-4.0-h-small-base,19,208,208,1,95
@@ -48885,6 +48989,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-small-base,47,358,19033,0,4
 2026-08-21,ibm-granite/granite-4.0-h-small-base,47,367,19048,0,15
 2026-08-22,ibm-granite/granite-4.0-h-small-base,47,363,19050,0,2
+2026-08-23,ibm-granite/granite-4.0-h-small-base,47,361,19052,0,2
 2025-10-03,ibm-granite/granite-4.0-h-small-base-GGUF,1,41,41,1,41
 2025-10-04,ibm-granite/granite-4.0-h-small-base-GGUF,1,400,400,0,359
 2025-10-05,ibm-granite/granite-4.0-h-small-base-GGUF,1,570,570,0,170
@@ -49206,6 +49311,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-small-base-GGUF,4,836,6005,0,9
 2026-08-21,ibm-granite/granite-4.0-h-small-base-GGUF,4,836,6015,0,10
 2026-08-22,ibm-granite/granite-4.0-h-small-base-GGUF,4,836,6017,0,2
+2026-08-23,ibm-granite/granite-4.0-h-small-base-GGUF,4,820,6017,0,0
 2025-10-03,ibm-granite/granite-4.0-h-tiny,20,882,882,20,882
 2025-10-04,ibm-granite/granite-4.0-h-tiny,35,1378,1378,15,496
 2025-10-05,ibm-granite/granite-4.0-h-tiny,48,3261,3261,13,1883
@@ -49527,6 +49633,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-tiny,207,207321,1010203,0,1661
 2026-08-21,ibm-granite/granite-4.0-h-tiny,207,196085,1012606,0,2403
 2026-08-22,ibm-granite/granite-4.0-h-tiny,207,186077,1016144,0,3538
+2026-08-23,ibm-granite/granite-4.0-h-tiny,207,175562,1018389,0,2245
 2025-10-03,ibm-granite/granite-4.0-h-tiny-GGUF,2,139,139,2,139
 2025-10-04,ibm-granite/granite-4.0-h-tiny-GGUF,4,1179,1179,2,1040
 2025-10-05,ibm-granite/granite-4.0-h-tiny-GGUF,5,2093,2093,1,914
@@ -49848,6 +49955,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-tiny-GGUF,28,3205,47937,0,129
 2026-08-21,ibm-granite/granite-4.0-h-tiny-GGUF,28,3169,47995,0,58
 2026-08-22,ibm-granite/granite-4.0-h-tiny-GGUF,28,3160,48190,0,195
+2026-08-23,ibm-granite/granite-4.0-h-tiny-GGUF,28,3121,48282,0,92
 2025-10-03,ibm-granite/granite-4.0-h-tiny-base,6,87,87,6,87
 2025-10-04,ibm-granite/granite-4.0-h-tiny-base,9,184,184,3,97
 2025-10-05,ibm-granite/granite-4.0-h-tiny-base,9,279,279,0,95
@@ -50169,6 +50277,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-tiny-base,34,456,22966,0,26
 2026-08-21,ibm-granite/granite-4.0-h-tiny-base,34,486,23011,0,45
 2026-08-22,ibm-granite/granite-4.0-h-tiny-base,34,448,23015,0,4
+2026-08-23,ibm-granite/granite-4.0-h-tiny-base,34,446,23019,0,4
 2025-10-03,ibm-granite/granite-4.0-h-tiny-base-GGUF,0,121,121,0,121
 2025-10-04,ibm-granite/granite-4.0-h-tiny-base-GGUF,0,276,276,0,155
 2025-10-05,ibm-granite/granite-4.0-h-tiny-base-GGUF,0,427,427,0,151
@@ -50490,6 +50599,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-h-tiny-base-GGUF,3,324,6982,0,1
 2026-08-21,ibm-granite/granite-4.0-h-tiny-base-GGUF,3,332,7007,0,25
 2026-08-22,ibm-granite/granite-4.0-h-tiny-base-GGUF,3,343,7019,0,12
+2026-08-23,ibm-granite/granite-4.0-h-tiny-base-GGUF,3,336,7027,0,8
 2025-10-03,ibm-granite/granite-4.0-micro,35,1502,1502,35,1502
 2025-10-04,ibm-granite/granite-4.0-micro,72,1891,1891,37,389
 2025-10-05,ibm-granite/granite-4.0-micro,85,3209,3209,13,1318
@@ -50811,6 +50921,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-micro,274,94867,1194981,0,1247
 2026-08-21,ibm-granite/granite-4.0-micro,274,85741,1197118,0,2137
 2026-08-22,ibm-granite/granite-4.0-micro,274,84219,1198273,0,1155
+2026-08-23,ibm-granite/granite-4.0-micro,274,82891,1199049,0,776
 2025-10-03,ibm-granite/granite-4.0-micro-GGUF,0,136,136,0,136
 2025-10-04,ibm-granite/granite-4.0-micro-GGUF,3,836,836,3,700
 2025-10-05,ibm-granite/granite-4.0-micro-GGUF,4,1418,1418,1,582
@@ -51132,6 +51243,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-micro-GGUF,22,4790,48575,0,155
 2026-08-21,ibm-granite/granite-4.0-micro-GGUF,22,4946,48795,0,220
 2026-08-22,ibm-granite/granite-4.0-micro-GGUF,22,5732,49671,0,876
+2026-08-23,ibm-granite/granite-4.0-micro-GGUF,22,5600,49754,0,83
 2025-10-03,ibm-granite/granite-4.0-micro-base,8,96,96,8,96
 2025-10-04,ibm-granite/granite-4.0-micro-base,12,232,232,4,136
 2025-10-05,ibm-granite/granite-4.0-micro-base,12,414,414,0,182
@@ -51453,6 +51565,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-micro-base,40,683,220870,0,4
 2026-08-21,ibm-granite/granite-4.0-micro-base,40,648,220876,0,6
 2026-08-22,ibm-granite/granite-4.0-micro-base,40,656,220913,0,37
+2026-08-23,ibm-granite/granite-4.0-micro-base,40,684,220974,0,61
 2025-10-03,ibm-granite/granite-4.0-micro-base-GGUF,0,120,120,0,120
 2025-10-04,ibm-granite/granite-4.0-micro-base-GGUF,0,330,330,0,210
 2025-10-05,ibm-granite/granite-4.0-micro-base-GGUF,0,459,459,0,129
@@ -51774,6 +51887,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-micro-base-GGUF,4,508,7937,0,58
 2026-08-21,ibm-granite/granite-4.0-micro-base-GGUF,4,533,7982,0,45
 2026-08-22,ibm-granite/granite-4.0-micro-base-GGUF,4,545,8011,0,29
+2026-08-23,ibm-granite/granite-4.0-micro-base-GGUF,4,530,8029,0,18
 2025-05-03,ibm-granite/granite-4.0-tiny-base-preview,4,6,6,4,6
 2025-05-04,ibm-granite/granite-4.0-tiny-base-preview,5,6,6,1,0
 2025-05-05,ibm-granite/granite-4.0-tiny-base-preview,9,7,7,4,1
@@ -52248,6 +52362,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-tiny-base-preview,34,137,4452,0,4
 2026-08-21,ibm-granite/granite-4.0-tiny-base-preview,34,137,4457,0,5
 2026-08-22,ibm-granite/granite-4.0-tiny-base-preview,34,137,4459,0,2
+2026-08-23,ibm-granite/granite-4.0-tiny-base-preview,34,135,4461,0,2
 2025-08-13,ibm-granite/granite-4.0-tiny-base-preview-GGUF,0,0,0,0,0
 2025-08-14,ibm-granite/granite-4.0-tiny-base-preview-GGUF,0,0,0,0,0
 2025-08-15,ibm-granite/granite-4.0-tiny-base-preview-GGUF,0,612,612,0,612
@@ -52620,6 +52735,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-tiny-base-preview-GGUF,2,438,5582,0,17
 2026-08-21,ibm-granite/granite-4.0-tiny-base-preview-GGUF,2,440,5590,0,8
 2026-08-22,ibm-granite/granite-4.0-tiny-base-preview-GGUF,2,432,5595,0,5
+2026-08-23,ibm-granite/granite-4.0-tiny-base-preview-GGUF,2,410,5603,0,8
 2025-05-03,ibm-granite/granite-4.0-tiny-preview,28,63,63,28,63
 2025-05-04,ibm-granite/granite-4.0-tiny-preview,47,63,63,19,0
 2025-05-05,ibm-granite/granite-4.0-tiny-preview,64,81,81,17,18
@@ -53094,6 +53210,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-tiny-preview,184,114828,1137230,0,2267
 2026-08-21,ibm-granite/granite-4.0-tiny-preview,184,109982,1139543,0,2313
 2026-08-22,ibm-granite/granite-4.0-tiny-preview,184,104799,1141743,0,2200
+2026-08-23,ibm-granite/granite-4.0-tiny-preview,184,100554,1144090,0,2347
 2025-08-13,ibm-granite/granite-4.0-tiny-preview-GGUF,1,0,0,1,0
 2025-08-14,ibm-granite/granite-4.0-tiny-preview-GGUF,1,0,0,0,0
 2025-08-15,ibm-granite/granite-4.0-tiny-preview-GGUF,1,1139,1139,0,1139
@@ -53466,6 +53583,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.0-tiny-preview-GGUF,6,688,13834,0,24
 2026-08-21,ibm-granite/granite-4.0-tiny-preview-GGUF,6,714,13865,0,31
 2026-08-22,ibm-granite/granite-4.0-tiny-preview-GGUF,6,736,13889,0,24
+2026-08-23,ibm-granite/granite-4.0-tiny-preview-GGUF,6,719,13905,0,16
 2026-04-30,ibm-granite/granite-4.1-30b,39,124,124,39,124
 2026-05-01,ibm-granite/granite-4.1-30b,58,411,411,19,287
 2026-05-02,ibm-granite/granite-4.1-30b,69,2010,2010,11,1599
@@ -53580,6 +53698,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-30b,144,22365,147197,0,223
 2026-08-21,ibm-granite/granite-4.1-30b,145,21813,147670,1,473
 2026-08-22,ibm-granite/granite-4.1-30b,145,21849,147967,0,297
+2026-08-23,ibm-granite/granite-4.1-30b,145,24890,154827,0,6860
 2026-05-09,ibm-granite/granite-4.1-30b-GGUF,1,29,29,1,29
 2026-05-10,ibm-granite/granite-4.1-30b-GGUF,1,117,117,0,88
 2026-05-11,ibm-granite/granite-4.1-30b-GGUF,1,200,200,0,83
@@ -53685,6 +53804,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-30b-GGUF,7,7428,18794,0,62
 2026-08-21,ibm-granite/granite-4.1-30b-GGUF,7,7256,18884,0,90
 2026-08-22,ibm-granite/granite-4.1-30b-GGUF,7,7247,18932,0,48
+2026-08-23,ibm-granite/granite-4.1-30b-GGUF,7,7053,19010,0,78
 2026-04-30,ibm-granite/granite-4.1-30b-base,17,4,4,17,4
 2026-05-01,ibm-granite/granite-4.1-30b-base,18,29,29,1,25
 2026-05-02,ibm-granite/granite-4.1-30b-base,21,111,111,3,82
@@ -53799,6 +53919,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-30b-base,27,1220,10891,0,21
 2026-08-21,ibm-granite/granite-4.1-30b-base,27,1157,10912,0,21
 2026-08-22,ibm-granite/granite-4.1-30b-base,27,1094,10926,0,14
+2026-08-23,ibm-granite/granite-4.1-30b-base,27,1096,10940,0,14
 2026-04-30,ibm-granite/granite-4.1-30b-fp8,5,0,0,5,0
 2026-05-01,ibm-granite/granite-4.1-30b-fp8,5,218,218,0,218
 2026-05-02,ibm-granite/granite-4.1-30b-fp8,5,1167,1167,0,949
@@ -53913,6 +54034,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-30b-fp8,7,3059,30488,0,78
 2026-08-21,ibm-granite/granite-4.1-30b-fp8,7,3190,30814,0,326
 2026-08-22,ibm-granite/granite-4.1-30b-fp8,7,3093,30976,0,162
+2026-08-23,ibm-granite/granite-4.1-30b-fp8,7,3112,31079,0,103
 2026-04-30,ibm-granite/granite-4.1-3b,27,137,137,27,137
 2026-05-01,ibm-granite/granite-4.1-3b,37,406,406,10,269
 2026-05-02,ibm-granite/granite-4.1-3b,42,1453,1453,5,1047
@@ -54027,6 +54149,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-3b,105,181627,948455,1,4577
 2026-08-21,ibm-granite/granite-4.1-3b,108,170850,954162,3,5707
 2026-08-22,ibm-granite/granite-4.1-3b,108,161955,960813,0,6651
+2026-08-23,ibm-granite/granite-4.1-3b,108,158005,968403,0,7590
 2026-05-09,ibm-granite/granite-4.1-3b-GGUF,0,194,194,0,194
 2026-05-10,ibm-granite/granite-4.1-3b-GGUF,0,298,298,0,104
 2026-05-11,ibm-granite/granite-4.1-3b-GGUF,0,374,374,0,76
@@ -54132,6 +54255,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-3b-GGUF,11,20096,252356,0,208
 2026-08-21,ibm-granite/granite-4.1-3b-GGUF,12,19286,252502,1,146
 2026-08-22,ibm-granite/granite-4.1-3b-GGUF,12,18335,252705,0,203
+2026-08-23,ibm-granite/granite-4.1-3b-GGUF,12,17679,253071,0,366
 2026-04-30,ibm-granite/granite-4.1-3b-base,14,21,21,14,21
 2026-05-01,ibm-granite/granite-4.1-3b-base,14,55,55,0,34
 2026-05-02,ibm-granite/granite-4.1-3b-base,16,234,234,2,179
@@ -54246,6 +54370,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-3b-base,23,3783,72763,0,154
 2026-08-21,ibm-granite/granite-4.1-3b-base,23,3842,72926,0,163
 2026-08-22,ibm-granite/granite-4.1-3b-base,23,4404,73538,0,612
+2026-08-23,ibm-granite/granite-4.1-3b-base,23,4411,73958,0,420
 2026-04-30,ibm-granite/granite-4.1-3b-fp8,5,0,0,5,0
 2026-05-01,ibm-granite/granite-4.1-3b-fp8,5,103,103,0,103
 2026-05-02,ibm-granite/granite-4.1-3b-fp8,5,907,907,0,804
@@ -54360,6 +54485,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-3b-fp8,8,2257,11010,0,63
 2026-08-21,ibm-granite/granite-4.1-3b-fp8,8,2976,11827,0,817
 2026-08-22,ibm-granite/granite-4.1-3b-fp8,8,2955,11896,0,69
+2026-08-23,ibm-granite/granite-4.1-3b-fp8,8,2966,11946,0,50
 2026-04-14,ibm-granite/granite-4.1-8b,10,0,0,10,0
 2026-04-15,ibm-granite/granite-4.1-8b,12,75,75,2,75
 2026-04-16,ibm-granite/granite-4.1-8b,12,100,100,0,25
@@ -54490,6 +54616,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-8b,252,3002399,5821249,2,5891
 2026-08-21,ibm-granite/granite-4.1-8b,252,2718918,5826728,0,5479
 2026-08-22,ibm-granite/granite-4.1-8b,253,2529074,5832160,1,5432
+2026-08-23,ibm-granite/granite-4.1-8b,253,2444125,5838369,0,6209
 2026-05-09,ibm-granite/granite-4.1-8b-GGUF,0,179,179,0,179
 2026-05-10,ibm-granite/granite-4.1-8b-GGUF,0,294,294,0,115
 2026-05-11,ibm-granite/granite-4.1-8b-GGUF,0,441,441,0,147
@@ -54595,6 +54722,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-8b-GGUF,10,5375,13791,-1,152
 2026-08-21,ibm-granite/granite-4.1-8b-GGUF,10,5598,14155,0,364
 2026-08-22,ibm-granite/granite-4.1-8b-GGUF,10,5654,14318,0,163
+2026-08-23,ibm-granite/granite-4.1-8b-GGUF,10,5679,14534,0,216
 2026-04-30,ibm-granite/granite-4.1-8b-base,15,16,16,15,16
 2026-05-01,ibm-granite/granite-4.1-8b-base,16,88,88,1,72
 2026-05-02,ibm-granite/granite-4.1-8b-base,19,252,252,3,164
@@ -54709,6 +54837,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-8b-base,25,4892,44348,0,22
 2026-08-21,ibm-granite/granite-4.1-8b-base,25,4876,44395,0,47
 2026-08-22,ibm-granite/granite-4.1-8b-base,25,4924,44488,0,93
+2026-08-23,ibm-granite/granite-4.1-8b-base,25,5145,44780,0,292
 2026-04-28,ibm-granite/granite-4.1-8b-fp8,0,8,8,0,8
 2026-04-29,ibm-granite/granite-4.1-8b-fp8,1,18,18,1,10
 2026-04-30,ibm-granite/granite-4.1-8b-fp8,7,18,18,6,0
@@ -54825,6 +54954,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-4.1-8b-fp8,14,28555,60132,0,4384
 2026-08-21,ibm-granite/granite-4.1-8b-fp8,14,29875,61707,0,1575
 2026-08-22,ibm-granite/granite-4.1-8b-fp8,14,29949,62013,0,306
+2026-08-23,ibm-granite/granite-4.1-8b-fp8,14,30203,62671,0,658
 2025-03-03,ibm-granite/granite-7b-base,28,2079,55808,28,55808
 2025-03-09,ibm-granite/granite-7b-base,28,1655,55993,0,185
 2025-03-10,ibm-granite/granite-7b-base,28,1655,55993,0,0
@@ -55351,6 +55481,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-7b-base,29,1222,84715,0,29
 2026-08-21,ibm-granite/granite-7b-base,29,1124,84737,0,22
 2026-08-22,ibm-granite/granite-7b-base,29,1591,85504,0,767
+2026-08-23,ibm-granite/granite-7b-base,29,1614,85551,0,47
 2025-03-03,ibm-granite/granite-7b-instruct,7,1094,99455,7,99455
 2025-03-09,ibm-granite/granite-7b-instruct,7,1704,100096,0,641
 2025-03-10,ibm-granite/granite-7b-instruct,7,1704,100096,0,0
@@ -55877,6 +56008,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-7b-instruct,10,394,130679,0,5
 2026-08-21,ibm-granite/granite-7b-instruct,10,387,130690,0,11
 2026-08-22,ibm-granite/granite-7b-instruct,10,378,130696,0,6
+2026-08-23,ibm-granite/granite-7b-instruct,10,379,130705,0,9
 2025-03-03,ibm-granite/granite-7b-instruct-accelerator,1,38,572,1,572
 2025-03-09,ibm-granite/granite-7b-instruct-accelerator,1,15,575,0,3
 2025-03-10,ibm-granite/granite-7b-instruct-accelerator,1,15,575,0,0
@@ -56403,6 +56535,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-7b-instruct-accelerator,1,99,989,0,2
 2026-08-21,ibm-granite/granite-7b-instruct-accelerator,1,98,991,0,2
 2026-08-22,ibm-granite/granite-7b-instruct-accelerator,1,98,994,0,3
+2026-08-23,ibm-granite/granite-7b-instruct-accelerator,1,97,996,0,2
 2025-03-03,ibm-granite/granite-8b-code-base-128k,6,309,4448,6,4448
 2025-03-09,ibm-granite/granite-8b-code-base-128k,6,660,4897,0,449
 2025-03-10,ibm-granite/granite-8b-code-base-128k,6,660,4897,0,0
@@ -56929,6 +57062,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-8b-code-base-128k,7,165,14511,0,6
 2026-08-21,ibm-granite/granite-8b-code-base-128k,7,163,14517,0,6
 2026-08-22,ibm-granite/granite-8b-code-base-128k,7,164,14522,0,5
+2026-08-23,ibm-granite/granite-8b-code-base-128k,7,164,14526,0,4
 2025-03-03,ibm-granite/granite-8b-code-base-4k,29,1164,37777,29,37777
 2025-03-09,ibm-granite/granite-8b-code-base-4k,29,522,37954,0,177
 2025-03-10,ibm-granite/granite-8b-code-base-4k,29,522,37954,0,0
@@ -57455,6 +57589,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-8b-code-base-4k,31,1818,60497,0,92
 2026-08-21,ibm-granite/granite-8b-code-base-4k,31,1911,60606,0,109
 2026-08-22,ibm-granite/granite-8b-code-base-4k,31,2252,60975,0,369
+2026-08-23,ibm-granite/granite-8b-code-base-4k,31,2327,61086,0,111
 2025-03-03,ibm-granite/granite-8b-code-base-4k-GGUF,2,84,550,2,550
 2025-03-09,ibm-granite/granite-8b-code-base-4k-GGUF,2,118,587,0,37
 2025-03-10,ibm-granite/granite-8b-code-base-4k-GGUF,2,118,587,0,0
@@ -57981,6 +58116,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-8b-code-base-4k-GGUF,3,113,1296,0,0
 2026-08-21,ibm-granite/granite-8b-code-base-4k-GGUF,3,119,1302,0,6
 2026-08-22,ibm-granite/granite-8b-code-base-4k-GGUF,3,120,1306,0,4
+2026-08-23,ibm-granite/granite-8b-code-base-4k-GGUF,3,123,1313,0,7
 2025-03-03,ibm-granite/granite-8b-code-instruct-128k,19,2705,16656,19,16656
 2025-03-09,ibm-granite/granite-8b-code-instruct-128k,19,2385,16822,0,166
 2025-03-10,ibm-granite/granite-8b-code-instruct-128k,19,2385,16822,0,0
@@ -58507,6 +58643,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-8b-code-instruct-128k,25,2070,92526,0,110
 2026-08-21,ibm-granite/granite-8b-code-instruct-128k,25,2045,92557,0,31
 2026-08-22,ibm-granite/granite-8b-code-instruct-128k,25,2022,92609,0,52
+2026-08-23,ibm-granite/granite-8b-code-instruct-128k,25,1995,92682,0,73
 2025-03-03,ibm-granite/granite-8b-code-instruct-4k,110,2952,57380,110,57380
 2025-03-09,ibm-granite/granite-8b-code-instruct-4k,110,1770,57540,0,160
 2025-03-10,ibm-granite/granite-8b-code-instruct-4k,110,1770,57540,0,0
@@ -59033,6 +59170,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-8b-code-instruct-4k,115,5227,156575,0,15
 2026-08-21,ibm-granite/granite-8b-code-instruct-4k,115,3402,156600,0,25
 2026-08-22,ibm-granite/granite-8b-code-instruct-4k,115,2452,156626,0,26
+2026-08-23,ibm-granite/granite-8b-code-instruct-4k,115,2122,156643,0,17
 2025-03-03,ibm-granite/granite-8b-code-instruct-4k-GGUF,10,1266,8239,10,8239
 2025-03-09,ibm-granite/granite-8b-code-instruct-4k-GGUF,10,1480,8548,0,309
 2025-03-10,ibm-granite/granite-8b-code-instruct-4k-GGUF,10,1480,8548,0,0
@@ -59559,6 +59697,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-8b-code-instruct-4k-GGUF,13,3553,84844,0,97
 2026-08-21,ibm-granite/granite-8b-code-instruct-4k-GGUF,13,3560,84958,0,114
 2026-08-22,ibm-granite/granite-8b-code-instruct-4k-GGUF,13,3515,85071,0,113
+2026-08-23,ibm-granite/granite-8b-code-instruct-4k-GGUF,13,3492,85174,0,103
 2025-03-03,ibm-granite/granite-8b-code-instruct-accelerator,1,19,319,1,319
 2025-03-09,ibm-granite/granite-8b-code-instruct-accelerator,1,12,320,0,1
 2025-03-10,ibm-granite/granite-8b-code-instruct-accelerator,1,12,320,0,0
@@ -60085,6 +60224,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-8b-code-instruct-accelerator,1,96,678,0,2
 2026-08-21,ibm-granite/granite-8b-code-instruct-accelerator,1,95,680,0,2
 2026-08-22,ibm-granite/granite-8b-code-instruct-accelerator,1,93,682,0,2
+2026-08-23,ibm-granite/granite-8b-code-instruct-accelerator,1,92,684,0,2
 2025-09-18,ibm-granite/granite-docling-258M,119,4,9,119,9
 2025-09-19,ibm-granite/granite-docling-258M,259,593,598,140,589
 2025-09-20,ibm-granite/granite-docling-258M,342,7750,7755,83,7157
@@ -60421,6 +60561,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-docling-258M,1246,582616,2711577,1,24805
 2026-08-21,ibm-granite/granite-docling-258M,1247,552393,2715760,1,4183
 2026-08-22,ibm-granite/granite-docling-258M,1249,527929,2723021,2,7261
+2026-08-23,ibm-granite/granite-docling-258M,1250,494816,2730311,1,7290
 2025-11-11,ibm-granite/granite-docling-258M-GGUF,0,8,8,0,8
 2025-11-12,ibm-granite/granite-docling-258M-GGUF,0,41,41,0,33
 2025-11-13,ibm-granite/granite-docling-258M-GGUF,0,62,62,0,21
@@ -60704,6 +60845,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-docling-258M-GGUF,13,1184,9059,0,19
 2026-08-21,ibm-granite/granite-docling-258M-GGUF,13,1178,9107,0,48
 2026-08-22,ibm-granite/granite-docling-258M-GGUF,13,1175,9154,0,47
+2026-08-23,ibm-granite/granite-docling-258M-GGUF,13,1192,9212,0,58
 2025-09-18,ibm-granite/granite-docling-258M-mlx,12,0,0,12,0
 2025-09-19,ibm-granite/granite-docling-258M-mlx,21,141,141,9,141
 2025-09-20,ibm-granite/granite-docling-258M-mlx,23,407,407,2,266
@@ -61040,6 +61182,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-docling-258M-mlx,101,3166,34669,0,127
 2026-08-21,ibm-granite/granite-docling-258M-mlx,101,3145,34787,0,118
 2026-08-22,ibm-granite/granite-docling-258M-mlx,101,3153,34906,0,119
+2026-08-23,ibm-granite/granite-docling-258M-mlx,101,3116,34991,0,85
 2025-03-03,ibm-granite/granite-embedding-107m-multilingual,10,2877,9489,10,9489
 2025-03-09,ibm-granite/granite-embedding-107m-multilingual,15,3819,11089,5,1600
 2025-03-10,ibm-granite/granite-embedding-107m-multilingual,15,3819,11089,0,0
@@ -61566,6 +61709,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-107m-multilingual,52,66617,547872,0,3142
 2026-08-21,ibm-granite/granite-embedding-107m-multilingual,52,67173,550022,0,2150
 2026-08-22,ibm-granite/granite-embedding-107m-multilingual,52,68550,553055,0,3033
+2026-08-23,ibm-granite/granite-embedding-107m-multilingual,52,67076,555188,0,2133
 2025-03-03,ibm-granite/granite-embedding-125m-english,6,10555,32900,6,32900
 2025-03-09,ibm-granite/granite-embedding-125m-english,9,12382,36630,3,3730
 2025-03-10,ibm-granite/granite-embedding-125m-english,9,12382,36630,0,0
@@ -62092,6 +62236,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-125m-english,38,119292,793042,0,4674
 2026-08-21,ibm-granite/granite-embedding-125m-english,38,122162,797202,0,4160
 2026-08-22,ibm-granite/granite-embedding-125m-english,38,125637,801938,0,4736
+2026-08-23,ibm-granite/granite-embedding-125m-english,38,128611,806309,0,4371
 2025-03-03,ibm-granite/granite-embedding-278m-multilingual,25,20015,40326,25,40326
 2025-03-09,ibm-granite/granite-embedding-278m-multilingual,32,21271,45684,7,5358
 2025-03-10,ibm-granite/granite-embedding-278m-multilingual,32,21271,45684,0,0
@@ -62618,6 +62763,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-278m-multilingual,85,59216,952854,0,3546
 2026-08-21,ibm-granite/granite-embedding-278m-multilingual,85,58926,954448,0,1594
 2026-08-22,ibm-granite/granite-embedding-278m-multilingual,85,59295,956325,0,1877
+2026-08-23,ibm-granite/granite-embedding-278m-multilingual,85,59740,958176,0,1851
 2025-03-03,ibm-granite/granite-embedding-30m-english,5,81885,98859,5,98859
 2025-03-09,ibm-granite/granite-embedding-30m-english,9,85833,104225,4,5366
 2025-03-10,ibm-granite/granite-embedding-30m-english,9,85833,104225,0,0
@@ -63144,6 +63290,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-30m-english,30,57617,1989981,0,2457
 2026-08-21,ibm-granite/granite-embedding-30m-english,30,55534,1992296,0,2315
 2026-08-22,ibm-granite/granite-embedding-30m-english,30,54722,1994139,0,1843
+2026-08-23,ibm-granite/granite-embedding-30m-english,30,54909,1995750,0,1611
 2025-03-03,ibm-granite/granite-embedding-30m-sparse,3,308,308,3,308
 2025-03-09,ibm-granite/granite-embedding-30m-sparse,4,2879,2879,1,2571
 2025-03-10,ibm-granite/granite-embedding-30m-sparse,4,2879,2879,0,0
@@ -63670,6 +63817,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-30m-sparse,26,24761,491644,0,291
 2026-08-21,ibm-granite/granite-embedding-30m-sparse,26,24615,491991,0,347
 2026-08-22,ibm-granite/granite-embedding-30m-sparse,26,24862,492610,0,619
+2026-08-23,ibm-granite/granite-embedding-30m-sparse,26,24863,492831,0,221
 2026-04-30,ibm-granite/granite-embedding-311m-multilingual-r2,24,0,0,24,0
 2026-05-01,ibm-granite/granite-embedding-311m-multilingual-r2,41,482,482,17,482
 2026-05-02,ibm-granite/granite-embedding-311m-multilingual-r2,50,4156,4156,9,3674
@@ -63784,6 +63932,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-311m-multilingual-r2,123,63692,622281,0,10496
 2026-08-21,ibm-granite/granite-embedding-311m-multilingual-r2,123,64530,625385,0,3104
 2026-08-22,ibm-granite/granite-embedding-311m-multilingual-r2,123,67608,629861,0,4476
+2026-08-23,ibm-granite/granite-embedding-311m-multilingual-r2,123,68687,632750,0,2889
 2026-04-30,ibm-granite/granite-embedding-97m-multilingual-r2,33,0,0,33,0
 2026-05-01,ibm-granite/granite-embedding-97m-multilingual-r2,50,163,163,17,163
 2026-05-02,ibm-granite/granite-embedding-97m-multilingual-r2,61,1065,1065,11,902
@@ -63898,6 +64047,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-97m-multilingual-r2,134,138552,767606,0,3850
 2026-08-21,ibm-granite/granite-embedding-97m-multilingual-r2,134,131877,771854,0,4248
 2026-08-22,ibm-granite/granite-embedding-97m-multilingual-r2,134,126545,776285,0,4431
+2026-08-23,ibm-granite/granite-embedding-97m-multilingual-r2,135,123673,778670,1,2385
 2025-08-16,ibm-granite/granite-embedding-english-r2,4,0,0,4,0
 2025-08-17,ibm-granite/granite-embedding-english-r2,9,0,0,5,0
 2025-08-18,ibm-granite/granite-embedding-english-r2,9,0,0,0,0
@@ -64267,6 +64417,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-english-r2,87,65040,497773,0,1129
 2026-08-21,ibm-granite/granite-embedding-english-r2,87,65284,500247,0,2474
 2026-08-22,ibm-granite/granite-embedding-english-r2,87,66776,503405,0,3158
+2026-08-23,ibm-granite/granite-embedding-english-r2,87,67594,506318,0,2913
 2025-09-09,ibm-granite/granite-embedding-reranker-english-r2,0,0,0,0,0
 2025-09-10,ibm-granite/granite-embedding-reranker-english-r2,0,9,9,0,9
 2025-09-11,ibm-granite/granite-embedding-reranker-english-r2,0,9,9,0,0
@@ -64612,6 +64763,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-reranker-english-r2,28,30775,168512,0,224
 2026-08-21,ibm-granite/granite-embedding-reranker-english-r2,28,31125,168956,0,444
 2026-08-22,ibm-granite/granite-embedding-reranker-english-r2,28,31863,169765,0,809
+2026-08-23,ibm-granite/granite-embedding-reranker-english-r2,28,32011,169971,0,206
 2025-08-16,ibm-granite/granite-embedding-small-english-r2,3,0,0,3,0
 2025-08-17,ibm-granite/granite-embedding-small-english-r2,7,0,0,4,0
 2025-08-18,ibm-granite/granite-embedding-small-english-r2,7,0,0,0,0
@@ -64981,6 +65133,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-embedding-small-english-r2,76,4735516,17435252,1,182911
 2026-08-21,ibm-granite/granite-embedding-small-english-r2,76,4810566,17629409,0,194157
 2026-08-22,ibm-granite/granite-embedding-small-english-r2,76,4883238,17829348,0,199939
+2026-08-23,ibm-granite/granite-embedding-small-english-r2,76,4942572,18020669,0,191321
 2025-03-03,ibm-granite/granite-geospatial-biomass,43,1954,9922,43,9922
 2025-03-09,ibm-granite/granite-geospatial-biomass,43,2503,11206,0,1284
 2025-03-10,ibm-granite/granite-geospatial-biomass,43,2503,11206,0,0
@@ -65507,6 +65660,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-geospatial-biomass,49,132,15456,0,0
 2026-08-21,ibm-granite/granite-geospatial-biomass,49,133,15457,0,1
 2026-08-22,ibm-granite/granite-geospatial-biomass,49,130,15459,0,2
+2026-08-23,ibm-granite/granite-geospatial-biomass,49,144,15475,0,16
 2025-03-03,ibm-granite/granite-geospatial-canopyheight,17,1907,8287,17,8287
 2025-03-09,ibm-granite/granite-geospatial-canopyheight,18,2458,9517,1,1230
 2025-03-10,ibm-granite/granite-geospatial-canopyheight,18,2458,9517,0,0
@@ -66033,6 +66187,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-geospatial-canopyheight,19,14,11310,0,0
 2026-08-21,ibm-granite/granite-geospatial-canopyheight,19,14,11310,0,0
 2026-08-22,ibm-granite/granite-geospatial-canopyheight,19,14,11310,0,0
+2026-08-23,ibm-granite/granite-geospatial-canopyheight,19,14,11310,0,0
 2025-03-03,ibm-granite/granite-geospatial-land-surface-temperature,17,2086,8390,17,8390
 2025-03-09,ibm-granite/granite-geospatial-land-surface-temperature,17,2656,9699,0,1309
 2025-03-10,ibm-granite/granite-geospatial-land-surface-temperature,17,2656,9699,0,0
@@ -66559,6 +66714,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-geospatial-land-surface-temperature,20,156,14083,0,5
 2026-08-21,ibm-granite/granite-geospatial-land-surface-temperature,20,156,14083,0,0
 2026-08-22,ibm-granite/granite-geospatial-land-surface-temperature,20,154,14083,0,0
+2026-08-23,ibm-granite/granite-geospatial-land-surface-temperature,20,158,14087,0,4
 2025-10-07,ibm-granite/granite-geospatial-ocean,2,11,11,2,11
 2025-10-08,ibm-granite/granite-geospatial-ocean,2,21,21,0,10
 2025-10-09,ibm-granite/granite-geospatial-ocean,2,21,21,0,0
@@ -66876,6 +67032,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-geospatial-ocean,11,94,19633,0,0
 2026-08-21,ibm-granite/granite-geospatial-ocean,11,86,19633,0,0
 2026-08-22,ibm-granite/granite-geospatial-ocean,11,86,19634,0,1
+2026-08-23,ibm-granite/granite-geospatial-ocean,11,83,19634,0,0
 2025-03-03,ibm-granite/granite-geospatial-uki,12,74,733,12,733
 2025-03-09,ibm-granite/granite-geospatial-uki,12,79,741,0,8
 2025-03-10,ibm-granite/granite-geospatial-uki,12,79,741,0,0
@@ -67402,6 +67559,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-geospatial-uki,16,179,2924,0,3
 2026-08-21,ibm-granite/granite-geospatial-uki,16,186,2935,0,11
 2026-08-22,ibm-granite/granite-geospatial-uki,16,187,2937,0,2
+2026-08-23,ibm-granite/granite-geospatial-uki,16,195,2947,0,10
 2025-03-03,ibm-granite/granite-geospatial-uki-flooddetection,14,99,315,14,315
 2025-03-09,ibm-granite/granite-geospatial-uki-flooddetection,14,61,319,0,4
 2025-03-10,ibm-granite/granite-geospatial-uki-flooddetection,14,61,319,0,0
@@ -67928,6 +68086,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-geospatial-uki-flooddetection,20,106,1751,0,2
 2026-08-21,ibm-granite/granite-geospatial-uki-flooddetection,20,105,1753,0,2
 2026-08-22,ibm-granite/granite-geospatial-uki-flooddetection,20,103,1753,0,0
+2026-08-23,ibm-granite/granite-geospatial-uki-flooddetection,20,103,1753,0,0
 2025-03-03,ibm-granite/granite-geospatial-wxc-downscaling,34,176,1054,34,1054
 2025-03-09,ibm-granite/granite-geospatial-wxc-downscaling,34,216,1113,0,59
 2025-03-10,ibm-granite/granite-geospatial-wxc-downscaling,34,216,1113,0,0
@@ -68454,6 +68613,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-geospatial-wxc-downscaling,37,46,4985,0,0
 2026-08-21,ibm-granite/granite-geospatial-wxc-downscaling,37,47,4986,0,1
 2026-08-22,ibm-granite/granite-geospatial-wxc-downscaling,37,47,4986,0,0
+2026-08-23,ibm-granite/granite-geospatial-wxc-downscaling,37,47,4986,0,0
 2025-03-03,ibm-granite/granite-guardian-3.0-2b,19,288,33074,19,33074
 2025-03-09,ibm-granite/granite-guardian-3.0-2b,20,279,33108,1,34
 2025-03-10,ibm-granite/granite-guardian-3.0-2b,20,279,33108,0,0
@@ -68980,6 +69140,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.0-2b,22,2817,109663,0,51
 2026-08-21,ibm-granite/granite-guardian-3.0-2b,22,2839,109769,0,106
 2026-08-22,ibm-granite/granite-guardian-3.0-2b,22,2775,109881,0,112
+2026-08-23,ibm-granite/granite-guardian-3.0-2b,22,2864,110123,0,242
 2025-03-03,ibm-granite/granite-guardian-3.0-8b,33,2571,7473,33,7473
 2025-03-09,ibm-granite/granite-guardian-3.0-8b,33,5013,10185,0,2712
 2025-03-10,ibm-granite/granite-guardian-3.0-8b,33,5013,10185,0,0
@@ -69506,6 +69667,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.0-8b,40,594,212228,0,3
 2026-08-21,ibm-granite/granite-guardian-3.0-8b,40,580,212236,0,8
 2026-08-22,ibm-granite/granite-guardian-3.0-8b,40,584,212257,0,21
+2026-08-23,ibm-granite/granite-guardian-3.0-8b,40,594,212281,0,24
 2025-03-03,ibm-granite/granite-guardian-3.1-2b,8,6745,21310,8,21310
 2025-03-09,ibm-granite/granite-guardian-3.1-2b,8,2616,21802,0,492
 2025-03-10,ibm-granite/granite-guardian-3.1-2b,8,2616,21802,0,0
@@ -70032,6 +70194,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.1-2b,16,4694,83655,0,191
 2026-08-21,ibm-granite/granite-guardian-3.1-2b,16,4720,83757,0,102
 2026-08-22,ibm-granite/granite-guardian-3.1-2b,16,4703,83804,0,47
+2026-08-23,ibm-granite/granite-guardian-3.1-2b,16,4677,83869,0,65
 2025-03-03,ibm-granite/granite-guardian-3.1-8b,13,1214,2622,13,2622
 2025-03-09,ibm-granite/granite-guardian-3.1-8b,13,1124,2778,0,156
 2025-03-10,ibm-granite/granite-guardian-3.1-8b,13,1124,2778,0,0
@@ -70558,6 +70721,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.1-8b,16,1881,30443,0,28
 2026-08-21,ibm-granite/granite-guardian-3.1-8b,16,1884,30497,0,54
 2026-08-22,ibm-granite/granite-guardian-3.1-8b,16,1847,30547,0,50
+2026-08-23,ibm-granite/granite-guardian-3.1-8b,16,1821,30579,0,32
 2025-03-03,ibm-granite/granite-guardian-3.2-3b-a800m,0,73,73,0,73
 2025-03-09,ibm-granite/granite-guardian-3.2-3b-a800m,1,311,311,1,238
 2025-03-10,ibm-granite/granite-guardian-3.2-3b-a800m,1,311,311,0,0
@@ -71084,6 +71248,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.2-3b-a800m,8,1143,70628,0,18
 2026-08-21,ibm-granite/granite-guardian-3.2-3b-a800m,8,1145,70683,0,55
 2026-08-22,ibm-granite/granite-guardian-3.2-3b-a800m,8,1126,70699,0,16
+2026-08-23,ibm-granite/granite-guardian-3.2-3b-a800m,8,1130,70728,0,29
 2025-03-03,ibm-granite/granite-guardian-3.2-5b,1,54,54,1,54
 2025-03-09,ibm-granite/granite-guardian-3.2-5b,6,316,316,5,262
 2025-03-10,ibm-granite/granite-guardian-3.2-5b,6,316,316,0,0
@@ -71610,6 +71775,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.2-5b,14,2056,66526,0,25
 2026-08-21,ibm-granite/granite-guardian-3.2-5b,14,2036,66560,0,34
 2026-08-22,ibm-granite/granite-guardian-3.2-5b,14,2046,66630,0,70
+2026-08-23,ibm-granite/granite-guardian-3.2-5b,14,2078,66705,0,75
 2025-12-23,ibm-granite/granite-guardian-3.2-5b-lora-factuality-correction,0,0,0,0,0
 2025-12-24,ibm-granite/granite-guardian-3.2-5b-lora-factuality-correction,0,0,0,0,0
 2025-12-25,ibm-granite/granite-guardian-3.2-5b-lora-factuality-correction,0,0,0,0,0
@@ -71851,6 +72017,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.2-5b-lora-factuality-correction,2,0,0,0,0
 2026-08-21,ibm-granite/granite-guardian-3.2-5b-lora-factuality-correction,2,0,0,0,0
 2026-08-22,ibm-granite/granite-guardian-3.2-5b-lora-factuality-correction,2,0,0,0,0
+2026-08-23,ibm-granite/granite-guardian-3.2-5b-lora-factuality-correction,2,0,0,0,0
 2025-09-09,ibm-granite/granite-guardian-3.2-5b-lora-harm-categories,1,0,0,1,0
 2025-09-10,ibm-granite/granite-guardian-3.2-5b-lora-harm-categories,2,0,0,1,0
 2025-09-11,ibm-granite/granite-guardian-3.2-5b-lora-harm-categories,2,0,0,0,0
@@ -72196,6 +72363,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.2-5b-lora-harm-categories,3,0,0,0,0
 2026-08-21,ibm-granite/granite-guardian-3.2-5b-lora-harm-categories,3,0,0,0,0
 2026-08-22,ibm-granite/granite-guardian-3.2-5b-lora-harm-categories,3,0,0,0,0
+2026-08-23,ibm-granite/granite-guardian-3.2-5b-lora-harm-categories,3,0,0,0,0
 2025-09-09,ibm-granite/granite-guardian-3.2-5b-lora-harm-correction,6,2,2,6,2
 2025-09-10,ibm-granite/granite-guardian-3.2-5b-lora-harm-correction,9,16,16,3,14
 2025-09-11,ibm-granite/granite-guardian-3.2-5b-lora-harm-correction,9,16,16,0,0
@@ -72541,6 +72709,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.2-5b-lora-harm-correction,23,86,661,0,3
 2026-08-21,ibm-granite/granite-guardian-3.2-5b-lora-harm-correction,23,87,664,0,3
 2026-08-22,ibm-granite/granite-guardian-3.2-5b-lora-harm-correction,23,88,667,0,3
+2026-08-23,ibm-granite/granite-guardian-3.2-5b-lora-harm-correction,23,87,669,0,2
 2025-12-23,ibm-granite/granite-guardian-3.2-8b-factuality-detection,0,0,0,0,0
 2025-12-24,ibm-granite/granite-guardian-3.2-8b-factuality-detection,0,6,6,0,6
 2025-12-25,ibm-granite/granite-guardian-3.2-8b-factuality-detection,0,6,6,0,0
@@ -72720,6 +72889,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.2-8b-factuality-detection,4,3415,3976,0,4
 2026-08-21,ibm-granite/granite-guardian-3.2-8b-factuality-detection,4,3408,3990,0,14
 2026-08-22,ibm-granite/granite-guardian-3.2-8b-factuality-detection,4,3380,4006,0,16
+2026-08-23,ibm-granite/granite-guardian-3.2-8b-factuality-detection,4,3386,4016,0,10
 2025-08-02,ibm-granite/granite-guardian-3.3-8b,4,15,15,4,15
 2025-08-03,ibm-granite/granite-guardian-3.3-8b,5,34,34,1,19
 2025-08-04,ibm-granite/granite-guardian-3.3-8b,6,38,38,1,4
@@ -73103,6 +73273,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.3-8b,33,10560,75509,0,103
 2026-08-21,ibm-granite/granite-guardian-3.3-8b,33,10593,75593,0,84
 2026-08-22,ibm-granite/granite-guardian-3.3-8b,33,10637,75770,0,177
+2026-08-23,ibm-granite/granite-guardian-3.3-8b,33,22835,88139,0,12369
 2025-08-13,ibm-granite/granite-guardian-3.3-8b-GGUF,0,0,0,0,0
 2025-08-14,ibm-granite/granite-guardian-3.3-8b-GGUF,0,0,0,0,0
 2025-08-15,ibm-granite/granite-guardian-3.3-8b-GGUF,0,443,443,0,443
@@ -73475,6 +73646,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-3.3-8b-GGUF,3,465,2460,0,14
 2026-08-21,ibm-granite/granite-guardian-3.3-8b-GGUF,3,470,2465,0,5
 2026-08-22,ibm-granite/granite-guardian-3.3-8b-GGUF,3,421,2473,0,8
+2026-08-23,ibm-granite/granite-guardian-3.3-8b-GGUF,3,400,2476,0,3
 2026-04-14,ibm-granite/granite-guardian-4.0-3b-toxicity-ja,1,4,4,1,4
 2026-04-15,ibm-granite/granite-guardian-4.0-3b-toxicity-ja,1,176,176,0,172
 2026-04-16,ibm-granite/granite-guardian-4.0-3b-toxicity-ja,1,209,209,0,33
@@ -73605,6 +73777,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-4.0-3b-toxicity-ja,6,385,1577,0,2
 2026-08-21,ibm-granite/granite-guardian-4.0-3b-toxicity-ja,6,375,1581,0,4
 2026-08-22,ibm-granite/granite-guardian-4.0-3b-toxicity-ja,6,372,1593,0,12
+2026-08-23,ibm-granite/granite-guardian-4.0-3b-toxicity-ja,6,366,1596,0,3
 2026-04-30,ibm-granite/granite-guardian-4.1-8b,13,0,0,13,0
 2026-05-01,ibm-granite/granite-guardian-4.1-8b,17,223,223,4,223
 2026-05-02,ibm-granite/granite-guardian-4.1-8b,18,321,321,1,98
@@ -73719,6 +73892,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-4.1-8b,35,75151,145599,0,1798
 2026-08-21,ibm-granite/granite-guardian-4.1-8b,35,76230,146870,0,1271
 2026-08-22,ibm-granite/granite-guardian-4.1-8b,35,75951,147216,0,346
+2026-08-23,ibm-granite/granite-guardian-4.1-8b,35,76317,148058,0,842
 2026-05-27,ibm-granite/granite-guardian-4.1-8b-GGUF,0,0,0,0,0
 2026-05-28,ibm-granite/granite-guardian-4.1-8b-GGUF,1,0,0,1,0
 2026-05-29,ibm-granite/granite-guardian-4.1-8b-GGUF,3,481,481,2,481
@@ -73806,6 +73980,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-4.1-8b-GGUF,5,1267,4174,0,34
 2026-08-21,ibm-granite/granite-guardian-4.1-8b-GGUF,5,1299,4213,0,39
 2026-08-22,ibm-granite/granite-guardian-4.1-8b-GGUF,5,1424,4342,0,129
+2026-08-23,ibm-granite/granite-guardian-4.1-8b-GGUF,5,1532,4485,0,143
 2025-03-03,ibm-granite/granite-guardian-hap-125m,20,305,2001,20,2001
 2025-03-09,ibm-granite/granite-guardian-hap-125m,20,390,2110,0,109
 2025-03-10,ibm-granite/granite-guardian-hap-125m,20,390,2110,0,0
@@ -74332,6 +74507,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-hap-125m,29,1401,26994,0,67
 2026-08-21,ibm-granite/granite-guardian-hap-125m,29,1558,27190,0,196
 2026-08-22,ibm-granite/granite-guardian-hap-125m,29,1545,27197,0,7
+2026-08-23,ibm-granite/granite-guardian-hap-125m,29,1519,27211,0,14
 2025-03-03,ibm-granite/granite-guardian-hap-38m,32,12280,70129,32,70129
 2025-03-09,ibm-granite/granite-guardian-hap-38m,33,12594,72998,1,2869
 2025-03-10,ibm-granite/granite-guardian-hap-38m,33,12594,72998,0,0
@@ -74858,6 +75034,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-guardian-hap-38m,48,887,166306,0,59
 2026-08-21,ibm-granite/granite-guardian-hap-38m,48,934,166386,0,80
 2026-08-22,ibm-granite/granite-guardian-hap-38m,48,992,166458,0,72
+2026-08-23,ibm-granite/granite-guardian-hap-38m,48,1005,166493,0,35
 2026-02-18,ibm-granite/granite-lib-rag-gpt-oss-r1.0,1,0,0,1,0
 2026-02-19,ibm-granite/granite-lib-rag-gpt-oss-r1.0,1,0,0,0,0
 2026-02-20,ibm-granite/granite-lib-rag-gpt-oss-r1.0,1,0,0,0,0
@@ -75498,6 +75675,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-rag-3.0-8b-lora,9,0,0,0,0
 2026-08-21,ibm-granite/granite-rag-3.0-8b-lora,9,0,0,0,0
 2026-08-22,ibm-granite/granite-rag-3.0-8b-lora,9,0,0,0,0
+2026-08-23,ibm-granite/granite-rag-3.0-8b-lora,9,0,0,0,0
 2025-04-05,ibm-granite/granite-speech-3.2-8b,3,131,131,3,131
 2025-04-06,ibm-granite/granite-speech-3.2-8b,32,150,150,29,19
 2025-04-07,ibm-granite/granite-speech-3.2-8b,38,296,296,6,146
@@ -76000,6 +76178,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-3.2-8b,88,60813,100107,0,1347
 2026-08-21,ibm-granite/granite-speech-3.2-8b,88,61387,102423,0,2316
 2026-08-22,ibm-granite/granite-speech-3.2-8b,88,61192,104084,0,1661
+2026-08-23,ibm-granite/granite-speech-3.2-8b,88,62572,107441,0,3357
 2025-05-03,ibm-granite/granite-speech-3.3-2b,3,50,50,3,50
 2025-05-04,ibm-granite/granite-speech-3.3-2b,3,50,50,0,0
 2025-05-05,ibm-granite/granite-speech-3.3-2b,4,56,56,1,6
@@ -76474,6 +76653,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-3.3-2b,55,382558,3048086,0,2702
 2026-08-21,ibm-granite/granite-speech-3.3-2b,55,361363,3051260,0,3174
 2026-08-22,ibm-granite/granite-speech-3.3-2b,55,341988,3054011,0,2751
+2026-08-23,ibm-granite/granite-speech-3.3-2b,55,325038,3057577,0,3566
 2025-04-17,ibm-granite/granite-speech-3.3-8b,13,1053,1053,13,1053
 2025-04-18,ibm-granite/granite-speech-3.3-8b,17,1791,1791,4,738
 2025-04-19,ibm-granite/granite-speech-3.3-8b,25,2454,2454,8,663
@@ -76964,6 +77144,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-3.3-8b,171,49135,820799,0,2288
 2026-08-21,ibm-granite/granite-speech-3.3-8b,171,50028,823457,0,2658
 2026-08-22,ibm-granite/granite-speech-3.3-8b,171,48771,825554,0,2097
+2026-08-23,ibm-granite/granite-speech-3.3-8b,171,47413,827203,0,1649
 2026-04-30,ibm-granite/granite-speech-4.1-2b,33,110,110,33,110
 2026-05-01,ibm-granite/granite-speech-4.1-2b,49,1070,1070,16,960
 2026-05-02,ibm-granite/granite-speech-4.1-2b,57,6250,6250,8,5180
@@ -77078,6 +77259,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-4.1-2b,157,295618,1661617,-1,12244
 2026-08-21,ibm-granite/granite-speech-4.1-2b,157,283826,1680306,0,18689
 2026-08-22,ibm-granite/granite-speech-4.1-2b,157,272857,1708338,0,28032
+2026-08-23,ibm-granite/granite-speech-4.1-2b,157,270956,1744078,0,35740
 2026-05-13,ibm-granite/granite-speech-4.1-2b-GGUF,0,0,0,0,0
 2026-05-14,ibm-granite/granite-speech-4.1-2b-GGUF,0,67,67,0,67
 2026-05-15,ibm-granite/granite-speech-4.1-2b-GGUF,0,327,327,0,260
@@ -77179,6 +77361,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-4.1-2b-GGUF,6,1801,5600,0,115
 2026-08-21,ibm-granite/granite-speech-4.1-2b-GGUF,6,1875,5683,0,83
 2026-08-22,ibm-granite/granite-speech-4.1-2b-GGUF,6,1852,5782,0,99
+2026-08-23,ibm-granite/granite-speech-4.1-2b-GGUF,6,1804,5808,0,26
 2026-04-30,ibm-granite/granite-speech-4.1-2b-nar,26,80,234,26,234
 2026-05-01,ibm-granite/granite-speech-4.1-2b-nar,32,174,328,6,94
 2026-05-02,ibm-granite/granite-speech-4.1-2b-nar,33,475,629,1,301
@@ -77293,6 +77476,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-4.1-2b-nar,57,138401,414541,0,2648
 2026-08-21,ibm-granite/granite-speech-4.1-2b-nar,57,137831,417295,0,2754
 2026-08-22,ibm-granite/granite-speech-4.1-2b-nar,57,137152,420268,0,2973
+2026-08-23,ibm-granite/granite-speech-4.1-2b-nar,57,135565,423108,0,2840
 2026-04-30,ibm-granite/granite-speech-4.1-2b-plus,26,58,58,26,58
 2026-05-01,ibm-granite/granite-speech-4.1-2b-plus,37,611,611,11,553
 2026-05-02,ibm-granite/granite-speech-4.1-2b-plus,38,1082,1082,1,471
@@ -77407,6 +77591,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-4.1-2b-plus,88,169460,292312,0,3683
 2026-08-21,ibm-granite/granite-speech-4.1-2b-plus,88,167786,297429,0,5117
 2026-08-22,ibm-granite/granite-speech-4.1-2b-plus,88,165820,302053,0,4624
+2026-08-23,ibm-granite/granite-speech-4.1-2b-plus,88,163950,306603,0,4550
 2026-07-01,ibm-granite/granite-speech-4.1-2b-plus-GGUF,0,0,0,0,0
 2026-07-02,ibm-granite/granite-speech-4.1-2b-plus-GGUF,0,0,0,0,0
 2026-07-03,ibm-granite/granite-speech-4.1-2b-plus-GGUF,0,64,64,0,64
@@ -77460,6 +77645,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-speech-4.1-2b-plus-GGUF,3,772,1481,0,51
 2026-08-21,ibm-granite/granite-speech-4.1-2b-plus-GGUF,3,758,1509,0,28
 2026-08-22,ibm-granite/granite-speech-4.1-2b-plus-GGUF,3,757,1535,0,26
+2026-08-23,ibm-granite/granite-speech-4.1-2b-plus-GGUF,3,810,1621,0,86
 2026-07-08,ibm-granite/granite-swash-2b,0,0,0,0,0
 2026-07-09,ibm-granite/granite-swash-2b,3,0,0,3,0
 2026-07-10,ibm-granite/granite-swash-2b,4,24,24,1,24
@@ -77506,6 +77692,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-swash-2b,5,4293,4624,0,127
 2026-08-21,ibm-granite/granite-swash-2b,5,4592,4937,0,313
 2026-08-22,ibm-granite/granite-swash-2b,5,4806,5171,0,234
+2026-08-23,ibm-granite/granite-swash-2b,5,5094,5523,0,352
 2026-07-08,ibm-granite/granite-swash-3b-a600m,1,13,13,1,13
 2026-07-09,ibm-granite/granite-swash-3b-a600m,5,13,13,4,0
 2026-07-10,ibm-granite/granite-swash-3b-a600m,6,94,94,1,81
@@ -77552,6 +77739,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-swash-3b-a600m,15,4126,4891,0,125
 2026-08-21,ibm-granite/granite-swash-3b-a600m,15,4406,5193,0,302
 2026-08-22,ibm-granite/granite-swash-3b-a600m,15,4630,5441,0,248
+2026-08-23,ibm-granite/granite-swash-3b-a600m,15,4898,5773,0,332
 2026-05-07,ibm-granite/granite-switch-4.1-30b-preview,0,35,35,0,35
 2026-05-08,ibm-granite/granite-switch-4.1-30b-preview,0,51,51,0,16
 2026-05-09,ibm-granite/granite-switch-4.1-30b-preview,0,68,68,0,17
@@ -77659,6 +77847,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-switch-4.1-30b-preview,28,884,1883,0,6
 2026-08-21,ibm-granite/granite-switch-4.1-30b-preview,28,886,1895,0,12
 2026-08-22,ibm-granite/granite-switch-4.1-30b-preview,28,890,1912,0,17
+2026-08-23,ibm-granite/granite-switch-4.1-30b-preview,28,887,1918,0,6
 2026-05-07,ibm-granite/granite-switch-4.1-3b-preview,2,276,276,2,276
 2026-05-08,ibm-granite/granite-switch-4.1-3b-preview,2,304,304,0,28
 2026-05-09,ibm-granite/granite-switch-4.1-3b-preview,3,338,338,1,34
@@ -77766,6 +77955,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-switch-4.1-3b-preview,35,3065,17125,0,34
 2026-08-21,ibm-granite/granite-switch-4.1-3b-preview,35,2979,17160,0,35
 2026-08-22,ibm-granite/granite-switch-4.1-3b-preview,35,3015,17240,0,80
+2026-08-23,ibm-granite/granite-switch-4.1-3b-preview,35,2935,17286,0,46
 2026-05-07,ibm-granite/granite-switch-4.1-8b-preview,3,37,37,3,37
 2026-05-08,ibm-granite/granite-switch-4.1-8b-preview,3,51,51,0,14
 2026-05-09,ibm-granite/granite-switch-4.1-8b-preview,3,83,83,0,32
@@ -77873,6 +78063,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-switch-4.1-8b-preview,30,1209,2998,0,2
 2026-08-21,ibm-granite/granite-switch-4.1-8b-preview,30,1208,3008,0,10
 2026-08-22,ibm-granite/granite-switch-4.1-8b-preview,30,1222,3033,0,25
+2026-08-23,ibm-granite/granite-switch-4.1-8b-preview,30,1261,3077,0,44
 2025-09-13,ibm-granite/granite-timeseries-flowstate-r1,1,0,0,1,0
 2025-09-14,ibm-granite/granite-timeseries-flowstate-r1,4,10,10,3,10
 2025-09-15,ibm-granite/granite-timeseries-flowstate-r1,4,16,16,0,6
@@ -78214,6 +78405,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-flowstate-r1,27,34000,679165,0,1236
 2026-08-21,ibm-granite/granite-timeseries-flowstate-r1,27,34724,680013,0,848
 2026-08-22,ibm-granite/granite-timeseries-flowstate-r1,27,35401,680883,0,870
+2026-08-23,ibm-granite/granite-timeseries-flowstate-r1,27,36127,681820,0,937
 2025-03-03,ibm-granite/granite-timeseries-patchtsmixer,15,6925,16562,15,16562
 2025-03-09,ibm-granite/granite-timeseries-patchtsmixer,16,6948,16744,1,182
 2025-03-10,ibm-granite/granite-timeseries-patchtsmixer,16,6948,16744,0,0
@@ -78740,6 +78932,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-patchtsmixer,23,9188,68352,0,239
 2026-08-21,ibm-granite/granite-timeseries-patchtsmixer,23,9471,68644,0,292
 2026-08-22,ibm-granite/granite-timeseries-patchtsmixer,23,9601,68794,0,150
+2026-08-23,ibm-granite/granite-timeseries-patchtsmixer,23,9605,68837,0,43
 2025-03-03,ibm-granite/granite-timeseries-patchtst,9,5850,14970,9,14970
 2025-03-09,ibm-granite/granite-timeseries-patchtst,9,6951,16179,0,1209
 2025-03-10,ibm-granite/granite-timeseries-patchtst,9,6951,16179,0,0
@@ -79266,6 +79459,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-patchtst,20,96501,233435,0,6035
 2026-08-21,ibm-granite/granite-timeseries-patchtst,20,84451,235654,0,2219
 2026-08-22,ibm-granite/granite-timeseries-patchtst,20,81750,236860,0,1206
+2026-08-23,ibm-granite/granite-timeseries-patchtst,20,67287,237444,0,584
 2026-03-26,ibm-granite/granite-timeseries-patchtst-fm-r1,0,20,20,0,20
 2026-03-27,ibm-granite/granite-timeseries-patchtst-fm-r1,0,30,30,0,10
 2026-03-28,ibm-granite/granite-timeseries-patchtst-fm-r1,0,30,30,0,0
@@ -79415,6 +79609,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-patchtst-fm-r1,4,16600,68210,0,1980
 2026-08-21,ibm-granite/granite-timeseries-patchtst-fm-r1,4,18004,69952,0,1742
 2026-08-22,ibm-granite/granite-timeseries-patchtst-fm-r1,4,18969,71160,0,1208
+2026-08-23,ibm-granite/granite-timeseries-patchtst-fm-r1,4,20383,72853,0,1693
 2025-06-14,ibm-granite/granite-timeseries-tspulse-r1,2,1,1,2,1
 2025-06-15,ibm-granite/granite-timeseries-tspulse-r1,3,77,77,1,76
 2025-06-16,ibm-granite/granite-timeseries-tspulse-r1,3,85,85,0,8
@@ -79847,6 +80042,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-tspulse-r1,36,106123,2003691,0,912
 2026-08-21,ibm-granite/granite-timeseries-tspulse-r1,36,102205,2004215,0,524
 2026-08-22,ibm-granite/granite-timeseries-tspulse-r1,36,100880,2004982,0,767
+2026-08-23,ibm-granite/granite-timeseries-tspulse-r1,36,97634,2005480,0,498
 2025-03-03,ibm-granite/granite-timeseries-ttm-r1,267,2354110,7778974,267,7778974
 2025-03-09,ibm-granite/granite-timeseries-ttm-r1,267,3085169,8795357,0,1016383
 2025-03-10,ibm-granite/granite-timeseries-ttm-r1,267,3085169,8795357,0,0
@@ -80373,6 +80569,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-ttm-r1,327,116572,27489515,0,814
 2026-08-21,ibm-granite/granite-timeseries-ttm-r1,327,105545,27491037,0,1522
 2026-08-22,ibm-granite/granite-timeseries-ttm-r1,327,93508,27491254,0,217
+2026-08-23,ibm-granite/granite-timeseries-ttm-r1,327,80420,27491432,0,178
 2025-03-03,ibm-granite/granite-timeseries-ttm-r2,61,1036301,1512456,61,1512456
 2025-03-09,ibm-granite/granite-timeseries-ttm-r2,70,1042816,1567871,9,55415
 2025-03-10,ibm-granite/granite-timeseries-ttm-r2,70,1042816,1567871,0,0
@@ -80899,6 +81096,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-ttm-r2,165,419062,12007779,1,12484
 2026-08-21,ibm-granite/granite-timeseries-ttm-r2,165,405008,12016564,0,8785
 2026-08-22,ibm-granite/granite-timeseries-ttm-r2,165,398482,12026675,0,10111
+2026-08-23,ibm-granite/granite-timeseries-ttm-r2,165,392950,12035276,0,8601
 2026-07-09,ibm-granite/granite-timeseries-ttm-r3,3,2861,2861,3,2861
 2026-07-10,ibm-granite/granite-timeseries-ttm-r3,4,2882,2882,1,21
 2026-07-11,ibm-granite/granite-timeseries-ttm-r3,4,2934,2934,0,52
@@ -80944,6 +81142,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-timeseries-ttm-r3,10,43132,50201,1,1791
 2026-08-21,ibm-granite/granite-timeseries-ttm-r3,10,56984,64199,0,13998
 2026-08-22,ibm-granite/granite-timeseries-ttm-r3,10,59221,68945,0,4746
+2026-08-23,ibm-granite/granite-timeseries-ttm-r3,10,58633,72387,0,3442
 2025-03-03,ibm-granite/granite-uncertainty-3.0-8b-lora,3,0,0,3,0
 2025-03-09,ibm-granite/granite-uncertainty-3.0-8b-lora,3,0,0,0,0
 2025-03-10,ibm-granite/granite-uncertainty-3.0-8b-lora,3,0,0,0,0
@@ -81470,6 +81669,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-uncertainty-3.0-8b-lora,5,0,0,0,0
 2026-08-21,ibm-granite/granite-uncertainty-3.0-8b-lora,5,0,0,0,0
 2026-08-22,ibm-granite/granite-uncertainty-3.0-8b-lora,5,0,0,0,0
+2026-08-23,ibm-granite/granite-uncertainty-3.0-8b-lora,5,0,0,0,0
 2025-04-02,ibm-granite/granite-uncertainty-3.2-8b-lora,1,0,0,1,0
 2025-04-03,ibm-granite/granite-uncertainty-3.2-8b-lora,2,0,0,1,0
 2025-04-04,ibm-granite/granite-uncertainty-3.2-8b-lora,2,0,0,0,0
@@ -82006,6 +82206,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-3.1-2b-preview,115,912,56265,0,25
 2026-08-21,ibm-granite/granite-vision-3.1-2b-preview,115,966,56335,0,70
 2026-08-22,ibm-granite/granite-vision-3.1-2b-preview,115,889,56355,0,20
+2026-08-23,ibm-granite/granite-vision-3.1-2b-preview,115,898,56386,0,31
 2025-03-03,ibm-granite/granite-vision-3.2-2b,30,2004,2004,30,2004
 2025-03-09,ibm-granite/granite-vision-3.2-2b,48,6275,6275,18,4271
 2025-03-10,ibm-granite/granite-vision-3.2-2b,48,6275,6275,0,0
@@ -82532,6 +82733,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-3.2-2b,124,3142,147628,0,71
 2026-08-21,ibm-granite/granite-vision-3.2-2b,124,3094,147657,0,29
 2026-08-22,ibm-granite/granite-vision-3.2-2b,124,3020,147726,0,69
+2026-08-23,ibm-granite/granite-vision-3.2-2b,124,3023,147755,0,29
 2025-06-12,ibm-granite/granite-vision-3.3-2b,1,0,0,1,0
 2025-06-13,ibm-granite/granite-vision-3.3-2b,2,64,64,1,64
 2025-06-14,ibm-granite/granite-vision-3.3-2b,3,155,155,1,91
@@ -82966,6 +83168,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-3.3-2b,85,242854,1470589,0,9486
 2026-08-21,ibm-granite/granite-vision-3.3-2b,85,245980,1481408,0,10819
 2026-08-22,ibm-granite/granite-vision-3.3-2b,85,250008,1491759,0,10351
+2026-08-23,ibm-granite/granite-vision-3.3-2b,85,254459,1502018,0,10259
 2025-08-13,ibm-granite/granite-vision-3.3-2b-GGUF,0,0,0,0,0
 2025-08-14,ibm-granite/granite-vision-3.3-2b-GGUF,0,0,0,0,0
 2025-08-15,ibm-granite/granite-vision-3.3-2b-GGUF,0,343,343,0,343
@@ -83338,6 +83541,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-3.3-2b-GGUF,16,943,16504,0,21
 2026-08-21,ibm-granite/granite-vision-3.3-2b-GGUF,16,1121,16700,0,196
 2026-08-22,ibm-granite/granite-vision-3.3-2b-GGUF,16,1101,16717,0,17
+2026-08-23,ibm-granite/granite-vision-3.3-2b-GGUF,16,1089,16734,0,17
 2026-02-03,ibm-granite/granite-vision-3.3-2b-chart2csv-preview,0,1,1,0,1
 2026-02-04,ibm-granite/granite-vision-3.3-2b-chart2csv-preview,2,3,3,2,2
 2026-02-05,ibm-granite/granite-vision-3.3-2b-chart2csv-preview,7,51,51,5,48
@@ -83538,6 +83742,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-3.3-2b-chart2csv-preview,16,816,13476,0,35
 2026-08-21,ibm-granite/granite-vision-3.3-2b-chart2csv-preview,16,810,13505,0,29
 2026-08-22,ibm-granite/granite-vision-3.3-2b-chart2csv-preview,16,793,13535,0,30
+2026-08-23,ibm-granite/granite-vision-3.3-2b-chart2csv-preview,16,772,13561,0,26
 2026-03-14,ibm-granite/granite-vision-3.3-2b-chart2csv-preview-GGUF,1,0,0,1,0
 2026-03-15,ibm-granite/granite-vision-3.3-2b-chart2csv-preview-GGUF,1,114,114,0,114
 2026-03-16,ibm-granite/granite-vision-3.3-2b-chart2csv-preview-GGUF,1,143,143,0,29
@@ -83699,6 +83904,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-3.3-2b-chart2csv-preview-GGUF,2,114,724,0,4
 2026-08-21,ibm-granite/granite-vision-3.3-2b-chart2csv-preview-GGUF,2,115,725,0,1
 2026-08-22,ibm-granite/granite-vision-3.3-2b-chart2csv-preview-GGUF,2,117,727,0,2
+2026-08-23,ibm-granite/granite-vision-3.3-2b-chart2csv-preview-GGUF,2,118,728,0,1
 2025-06-13,ibm-granite/granite-vision-3.3-2b-embedding,4,205,205,4,205
 2025-06-14,ibm-granite/granite-vision-3.3-2b-embedding,5,215,215,1,10
 2025-06-15,ibm-granite/granite-vision-3.3-2b-embedding,5,215,215,0,0
@@ -84132,6 +84338,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-3.3-2b-embedding,29,552,15695,0,35
 2026-08-21,ibm-granite/granite-vision-3.3-2b-embedding,29,556,15713,0,18
 2026-08-22,ibm-granite/granite-vision-3.3-2b-embedding,29,561,15729,0,16
+2026-08-23,ibm-granite/granite-vision-3.3-2b-embedding,29,558,15750,0,21
 2026-04-30,ibm-granite/granite-vision-4.1-4b,22,3406,3406,22,3406
 2026-05-01,ibm-granite/granite-vision-4.1-4b,38,3902,3902,16,496
 2026-05-02,ibm-granite/granite-vision-4.1-4b,40,5165,5165,2,1263
@@ -84246,6 +84453,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-4.1-4b,101,150150,609297,0,2322
 2026-08-21,ibm-granite/granite-vision-4.1-4b,102,148883,612329,1,3032
 2026-08-22,ibm-granite/granite-vision-4.1-4b,102,146589,615026,0,2697
+2026-08-23,ibm-granite/granite-vision-4.1-4b,102,136985,616707,0,1681
 2026-06-25,ibm-granite/granite-vision-4.1-4b-GGUF,0,17,17,0,17
 2026-06-26,ibm-granite/granite-vision-4.1-4b-GGUF,2,29,29,2,12
 2026-06-27,ibm-granite/granite-vision-4.1-4b-GGUF,2,292,292,0,263
@@ -84305,6 +84513,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granite-vision-4.1-4b-GGUF,7,2131,4344,0,130
 2026-08-21,ibm-granite/granite-vision-4.1-4b-GGUF,8,2158,4440,1,96
 2026-08-22,ibm-granite/granite-vision-4.1-4b-GGUF,8,2133,4504,0,64
+2026-08-23,ibm-granite/granite-vision-4.1-4b-GGUF,8,2118,4598,0,94
 2026-03-18,ibm-granite/granitelib-core-r1.0,8,0,0,8,0
 2026-03-19,ibm-granite/granitelib-core-r1.0,8,0,0,0,0
 2026-03-20,ibm-granite/granitelib-core-r1.0,8,0,0,0,0
@@ -84462,6 +84671,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granitelib-core-r1.0,30,5053,31378,0,376
 2026-08-21,ibm-granite/granitelib-core-r1.0,30,5041,31588,0,210
 2026-08-22,ibm-granite/granitelib-core-r1.0,30,5013,31794,0,206
+2026-08-23,ibm-granite/granitelib-core-r1.0,30,4927,31910,0,116
 2026-03-18,ibm-granite/granitelib-guardian-r1.0,7,0,0,7,0
 2026-03-19,ibm-granite/granitelib-guardian-r1.0,7,0,0,0,0
 2026-03-20,ibm-granite/granitelib-guardian-r1.0,9,0,0,2,0
@@ -84619,6 +84829,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granitelib-guardian-r1.0,34,416,17693,0,22
 2026-08-21,ibm-granite/granitelib-guardian-r1.0,34,389,17698,0,5
 2026-08-22,ibm-granite/granitelib-guardian-r1.0,34,382,17700,0,2
+2026-08-23,ibm-granite/granitelib-guardian-r1.0,34,380,17705,0,5
 2026-03-14,ibm-granite/granitelib-rag-gpt-oss-r1.0,2,4,4,2,4
 2026-03-15,ibm-granite/granitelib-rag-gpt-oss-r1.0,2,4,4,0,0
 2026-03-16,ibm-granite/granitelib-rag-gpt-oss-r1.0,2,4,4,0,0
@@ -84780,6 +84991,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granitelib-rag-gpt-oss-r1.0,11,11,521,0,0
 2026-08-21,ibm-granite/granitelib-rag-gpt-oss-r1.0,11,11,521,0,0
 2026-08-22,ibm-granite/granitelib-rag-gpt-oss-r1.0,11,11,521,0,0
+2026-08-23,ibm-granite/granitelib-rag-gpt-oss-r1.0,11,11,521,0,0
 2026-03-13,ibm-granite/granitelib-rag-r1.0,2,762,1319,2,1319
 2026-03-14,ibm-granite/granitelib-rag-r1.0,2,943,1503,0,184
 2026-03-15,ibm-granite/granitelib-rag-r1.0,2,1719,2291,0,788
@@ -84942,6 +85154,7 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/granitelib-rag-r1.0,45,10763,105944,0,785
 2026-08-21,ibm-granite/granitelib-rag-r1.0,45,10720,106340,0,396
 2026-08-22,ibm-granite/granitelib-rag-r1.0,45,10679,106733,0,393
+2026-08-23,ibm-granite/granitelib-rag-r1.0,45,10404,106948,0,215
 2025-09-28,ibm-granite/rag-intrinsics-lib,0,0,0,0,0
 2025-09-29,ibm-granite/rag-intrinsics-lib,0,0,0,0,0
 2025-09-30,ibm-granite/rag-intrinsics-lib,1,0,0,1,0
@@ -85267,3 +85480,4 @@ date,model_id,likes,downloads,downloads_all_time,likes_delta,downloads_delta
 2026-08-20,ibm-granite/rag-intrinsics-lib,12,0,0,0,0
 2026-08-21,ibm-granite/rag-intrinsics-lib,12,0,0,0,0
 2026-08-22,ibm-granite/rag-intrinsics-lib,12,0,0,0,0
+2026-08-23,ibm-granite/rag-intrinsics-lib,12,0,0,0,0
